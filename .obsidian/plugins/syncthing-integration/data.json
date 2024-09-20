@@ -1,0 +1,13 @@
+{
+  "configuration": {
+    "url": {
+      "protocol": "http",
+      "ip_address": "localhost",
+      "port": 8384
+    }
+  },
+  "devMode": false,
+  "api_key": "pt79cpjui9sfNq5Dw3if32dwb2jsSAXE",
+  "gui_password": "pt79cpjui9sfNq5Dw3if32dwb2jsSAXE",
+  "gui_username": "syncthing"
+}

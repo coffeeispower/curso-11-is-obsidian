@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "5fd36bd09b1cc243",
+    "type": "split",
+    "children": [
+      {
+        "id": "94ede259c2cd99e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2d21be70d592c9b",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Inglês/Lesson 2 & 3.md",
+                "staged": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cffb51d5b5386ac9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ca595fe2bb34c5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00460eb803bb93ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "87eeed9b1207c5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7975bcde506e524d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa687c3fc3da88c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "bbef5510fa2afc22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "98523fca484abf92",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5
+  },
+  "right": {
+    "id": "dc16f7b76adf9584",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5bce5c705907df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "becda90496dc8bbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a95034e7c8d2b7f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bc29ed72e8227a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f14de1f9f685e4e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c9e250672e32dca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "quickadd:QuickAdd": false,
+      "switcher:Abrir Quick Switcher": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:Create new canvas": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "f2d21be70d592c9b",
+  "lastOpenFiles": [
+    "Programação/Lição 4, 5 & 6.md",
+    "Programação/HTML.md",
+    "Lista de Lições.md",
+    "Programação",
+    "Tarefas.md",
+    "Matemática/Hipotenusa.md",
+    "Português/Texto literário vs Texto não literário.canvas",
+    "Matemática/Exercicios da lição 3 e 4.md",
+    "Arquitetura de Computadores/Cisco Packet Tracer.md",
+    "Português/Módulos.md",
+    "Português/Lição 3.md",
+    "Português/Lição 1 & 2.md",
+    "Templates/Lição.md",
+    "Matemática/Cateto adjacente.md",
+    "Física e Química/Corpo iluminado.md",
+    "2024-09-19.md",
+    "Matemática/Cateto.md",
+    "Área de Integração/Apelido.md",
+    "Física e Química/Corpo luminoso.md",
+    "Física e Química/Correção da ficha da Lição 2.md",
+    "Inglês/Lesson 2 & 3.md",
+    "Área de Integração/Família.md",
+    "Área de Integração/Módulo 3 - A pessoa.md",
+    "Física e Química/Lição 3 & 4.md",
+    "Física e Química/Lição 2.md",
+    "Física e Química/Lição 1.md",
+    "Física e Química/Hertz.md",
+    "Física e Química/Frequência.md",
+    "Área de Integração/Nuvem de palavras sobre a família.canvas",
+    "SIBD/Tipos de Sistemas.canvas",
+    "Português/Lições",
+    "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
+    "Excalidraw/Anexos/Pasted Image 20240919130227_246.png",
+    "Excalidraw/Anexos/Pasted Image 20240919130341_411.png",
+    "Imagens/Critérios de avaliação.png",
+    "Excalidraw/Anexos",
+    "Matemática",
+    "Arquitetura de Computadores",
+    "Excalidraw",
+    "Templates",
+    "SIBD",
+    "Inglês/Sem título",
+    "Imagens"
+  ]
+}

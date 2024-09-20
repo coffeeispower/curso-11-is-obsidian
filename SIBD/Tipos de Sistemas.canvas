@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4b077c315d1fd646","type":"file","file":"SIBD/Sistema.md","x":-25,"y":-360,"width":425,"height":360,"color":"4"},
+		{"id":"307dba8d727965a4","type":"file","file":"SIBD/Sistema Biológico.md","x":-12,"y":-920,"width":400,"height":400,"color":"4"},
+		{"id":"2cd9421139bb6a3b","type":"file","file":"SIBD/Sistemas Informáticos.md","x":-12,"y":180,"width":400,"height":180,"color":"6"},
+		{"id":"1998351dc5352837","type":"file","file":"SIBD/Sistema Conceptual.md","x":560,"y":-349,"width":594,"height":340,"color":"4"},
+		{"id":"73ca5d351fa1cfe7","type":"file","file":"SIBD/Sistema Físico.md","x":-760,"y":-298,"width":565,"height":237,"color":"4"}
+	],
+	"edges":[
+		{"id":"419bc6fadc99caa7","fromNode":"4b077c315d1fd646","fromSide":"left","toNode":"73ca5d351fa1cfe7","toSide":"right"},
+		{"id":"4242babb14fe8319","fromNode":"4b077c315d1fd646","fromSide":"right","toNode":"1998351dc5352837","toSide":"left"},
+		{"id":"7bf1dcd8ab4127a4","fromNode":"4b077c315d1fd646","fromSide":"bottom","toNode":"2cd9421139bb6a3b","toSide":"top"},
+		{"id":"42597dbe74b61c11","fromNode":"4b077c315d1fd646","fromSide":"top","toNode":"307dba8d727965a4","toSide":"bottom"}
+	]
+}
