@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCheckCheck",
       "LiCode2",
       "LiPackage",
       "LiBookMarked",
-      "LiPuzzle",
-      "👪"
+      "LiPuzzle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -73,5 +73,6 @@
   "Português/Módulos.md": "LiPuzzle",
   "Lista de Lições.md": "LiBookMarked",
   "Arquitetura de Computadores/Cisco Packet Tracer.md": "LiPackage",
-  "Português/Texto literário vs Texto não literário.canvas": "LiText"
+  "Português/Texto literário vs Texto não literário.canvas": "LiText",
+  "Tarefas.md": "LiCheckCheck"
 }

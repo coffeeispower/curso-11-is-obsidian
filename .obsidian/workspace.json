@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f29cf76ebee5e2d9",
+        "id": "b06e805eca99b3a5",
         "type": "tabs",
         "children": [
           {
-            "id": "4d40f3c0568ec2be",
+            "id": "8a021db6268c8d13",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "diff-view",
               "state": {
-                "file": "Tarefas.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": ".obsidian/plugins/obsidian-icon-folder/data.json",
+                "staged": false
               }
             }
           }
@@ -83,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.51103591918945
+    "width": 318.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -99,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tarefas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,12 +171,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4d40f3c0568ec2be",
+  "active": "8a021db6268c8d13",
   "lastOpenFiles": [
+    "Lista de Lições.md",
+    "Português/Texto literário vs Texto não literário.canvas",
+    "Tarefas.md",
     "Português/Lição 1 & 2.md",
     "Português/Camilo Castelo Branco.md",
     "Português/Visconde.md",
-    "Lista de Lições.md",
     "Inglês/Listening activities - “Hanging Out”.md",
     "Inglês/Difference between \"so\" and \"such\".md",
     "Inglês/Bordallo II.md",
@@ -201,17 +193,14 @@
     "Português/Piralista.md",
     "Português/Lição 4 & 5.md",
     "Português/Módulos.md",
-    "Tarefas.md",
     "Física e Química/Módulos.md",
     "Programação/Lição 4, 5 & 6.md",
     "Programação/HTML.md",
     "Programação",
     "Matemática/Hipotenusa.md",
-    "Português/Texto literário vs Texto não literário.canvas",
     "Matemática/Exercicios da lição 3 e 4.md",
     "Arquitetura de Computadores/Cisco Packet Tracer.md",
     "Templates/Lição.md",
-    "Matemática/Cateto adjacente.md",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "SIBD/Tipos de Sistemas.canvas",
     "Português/Lições",
