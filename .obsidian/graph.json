@@ -39,7 +39,7 @@
       "query": "tag:#fq  ",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 13311
       }
     },
     {
@@ -81,6 +81,6 @@
   "repelStrength": 8.85416666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3703325159790758,
+  "scale": 0.41923698709972324,
   "close": true
 }

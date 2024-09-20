@@ -7,6 +7,7 @@ modulo: 5
 
 ## Notas relacionadas:
 - [[Módulos]]
-- [[Texto literário vs Texto não literário.canvas|Tipos de texto]]
+- [[Texto literário vs Texto não literário.canvas|Texto literário vs Texto não literário]]
 ## Sumário
-- TBD
+- Apresentação da professora, dos [[Módulos|módulos e dos autores a estudar]]
+- Desafio de escrita - apresentação individual

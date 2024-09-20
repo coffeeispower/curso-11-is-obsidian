@@ -9,10 +9,11 @@
     "ca": "ca-ES"
   },
   "dictionary": [
-    "radiação"
+    "radiação",
+    "Carcére"
   ],
   "pickyMode": true,
   "motherTongue": "pt",
   "disabledRules": "FINAL_STOPS,DASH_RULE,GENERAL_NUMBER_AGREEMENT_ERRORS",
-  "staticLanguage": "pt-PT"
+  "staticLanguage": "en-US"
 }

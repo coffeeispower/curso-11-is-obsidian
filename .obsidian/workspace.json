@@ -4,32 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "94ede259c2cd99e1",
+        "id": "f29cf76ebee5e2d9",
         "type": "tabs",
         "children": [
           {
-            "id": "f2d21be70d592c9b",
+            "id": "4d40f3c0568ec2be",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "kanban",
               "state": {
-                "file": "Inglês/Lesson 2 & 3.md",
-                "staged": true
+                "file": "Tarefas.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "cffb51d5b5386ac9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9ca595fe2bb34c5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -90,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 318.51103591918945
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -106,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tarefas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tarefas.md"
+              }
             }
           },
           {
@@ -151,6 +148,14 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d5094ce61a3edc9",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
               "state": {}
             }
           }
@@ -172,39 +177,41 @@
       "command-palette:Abrir paleta de comando": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f2d21be70d592c9b",
+  "active": "4d40f3c0568ec2be",
   "lastOpenFiles": [
+    "Português/Lição 1 & 2.md",
+    "Português/Camilo Castelo Branco.md",
+    "Português/Visconde.md",
+    "Lista de Lições.md",
+    "Inglês/Listening activities - “Hanging Out”.md",
+    "Inglês/Difference between \"so\" and \"such\".md",
+    "Inglês/Bordallo II.md",
+    "Inglês/Lesson 4 & 5.md",
+    "Inglês/Lesson 1.md",
+    "Inglês/Book Exercises/Page 56.md",
+    "Inglês/Book Exercises",
+    "Inglês/Teenagers References.md",
+    "Inglês/Lesson 2 & 3.md",
+    "Português/Ana Plácido.md",
+    "Português/Lição 3.md",
+    "Português/Piralista.md",
+    "Português/Lição 4 & 5.md",
+    "Português/Módulos.md",
+    "Tarefas.md",
+    "Física e Química/Módulos.md",
     "Programação/Lição 4, 5 & 6.md",
     "Programação/HTML.md",
-    "Lista de Lições.md",
     "Programação",
-    "Tarefas.md",
     "Matemática/Hipotenusa.md",
     "Português/Texto literário vs Texto não literário.canvas",
     "Matemática/Exercicios da lição 3 e 4.md",
     "Arquitetura de Computadores/Cisco Packet Tracer.md",
-    "Português/Módulos.md",
-    "Português/Lição 3.md",
-    "Português/Lição 1 & 2.md",
     "Templates/Lição.md",
     "Matemática/Cateto adjacente.md",
-    "Física e Química/Corpo iluminado.md",
-    "2024-09-19.md",
-    "Matemática/Cateto.md",
-    "Área de Integração/Apelido.md",
-    "Física e Química/Corpo luminoso.md",
-    "Física e Química/Correção da ficha da Lição 2.md",
-    "Inglês/Lesson 2 & 3.md",
-    "Área de Integração/Família.md",
-    "Área de Integração/Módulo 3 - A pessoa.md",
-    "Física e Química/Lição 3 & 4.md",
-    "Física e Química/Lição 2.md",
-    "Física e Química/Lição 1.md",
-    "Física e Química/Hertz.md",
-    "Física e Química/Frequência.md",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "SIBD/Tipos de Sistemas.canvas",
     "Português/Lições",
@@ -218,7 +225,6 @@
     "Excalidraw",
     "Templates",
     "SIBD",
-    "Inglês/Sem título",
     "Imagens"
   ]
 }
