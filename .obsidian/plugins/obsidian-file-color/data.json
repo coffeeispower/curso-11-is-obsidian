@@ -1,0 +1,71 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "Np53XxHLs2FSClUJc08iR",
+      "name": "Laranja",
+      "value": "#ff6600"
+    },
+    {
+      "id": "1P5cbJ0J8LHYU6xsnfY3-",
+      "name": "Azul ciano",
+      "value": "#0099cc"
+    },
+    {
+      "id": "ymKwS8TwlbG5CXnU_9-Cf",
+      "name": "Roxo",
+      "value": "#663399"
+    },
+    {
+      "id": "3HgCOas7YbSnGjSkU2JTP",
+      "name": "ciano",
+      "value": "#00e1ff"
+    },
+    {
+      "id": "FDL1s9aCahqaCYryAUOl5",
+      "name": "Verde",
+      "value": "#00ff00"
+    },
+    {
+      "id": "CX7u47Tp-EdhKf8kVCW8s",
+      "name": "Vermelho",
+      "value": "#ff5252"
+    },
+    {
+      "id": "AYTcXLSP4VvwRN3s7KQJQ",
+      "name": "Azul",
+      "value": "#0000ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Área de Integração",
+      "color": "Np53XxHLs2FSClUJc08iR"
+    },
+    {
+      "path": "Arquitetura de Computadores",
+      "color": "1P5cbJ0J8LHYU6xsnfY3-"
+    },
+    {
+      "path": "Física e Química",
+      "color": "ymKwS8TwlbG5CXnU_9-Cf"
+    },
+    {
+      "path": "Inglês",
+      "color": "3HgCOas7YbSnGjSkU2JTP"
+    },
+    {
+      "path": "Matemática",
+      "color": "FDL1s9aCahqaCYryAUOl5"
+    },
+    {
+      "path": "Português",
+      "color": "CX7u47Tp-EdhKf8kVCW8s"
+    },
+    {
+      "path": "SIBD",
+      "color": "AYTcXLSP4VvwRN3s7KQJQ"
+    }
+  ]
+}

@@ -1,7 +1,10 @@
 {
-  "accentColor": "#67e0fe",
+  "accentColor": "#00bfff",
   "cssTheme": "Tokyo Night",
   "textFontFamily": "Bodoni 72",
   "monospaceFontFamily": "",
-  "interfaceFontFamily": "Bodoni 72"
+  "interfaceFontFamily": "Bodoni 72",
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
 }

@@ -3,5 +3,6 @@
   "promptDelete": true,
   "attachmentFolderPath": "./Anexos",
   "newFileLocation": "current",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "showRibbon": true
 }

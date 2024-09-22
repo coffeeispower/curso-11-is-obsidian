@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b06e805eca99b3a5",
+        "id": "ebaa67e9307730ca",
         "type": "tabs",
         "children": [
           {
-            "id": "8a021db6268c8d13",
+            "id": "1c0dc5aa4cecf84f",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-icon-folder/data.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -57,14 +54,6 @@
             }
           },
           {
-            "id": "bbef5510fa2afc22",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "98523fca484abf92",
             "type": "leaf",
             "state": {
@@ -76,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.51103591918945,
-    "collapsed": true
+    "width": 318.51103591918945
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -154,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,12 +156,19 @@
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "workspaces:Gerir esquema da área de trabalho": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "8a021db6268c8d13",
+  "active": "7975bcde506e524d",
   "lastOpenFiles": [
     "Lista de Lições.md",
+    "Inglês/Módulos.md",
+    "SIBD/Tipos de Sistemas.canvas",
+    "Templates/Lição.md",
+    "Sem título.md",
     "Português/Texto literário vs Texto não literário.canvas",
     "Tarefas.md",
     "Português/Lição 1 & 2.md",
@@ -199,10 +194,7 @@
     "Programação",
     "Matemática/Hipotenusa.md",
     "Matemática/Exercicios da lição 3 e 4.md",
-    "Arquitetura de Computadores/Cisco Packet Tracer.md",
-    "Templates/Lição.md",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
-    "SIBD/Tipos de Sistemas.canvas",
     "Português/Lições",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos/Pasted Image 20240919130227_246.png",

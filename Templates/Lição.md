@@ -1,8 +1,10 @@
 ---
-tags: [lição]
-data: {{DATE:YYYY-MM-DD}}
+tags: [lição, template]
+data:
+  "{ DATE:YYYY-MM-DD }": 
 hours: 1
-modulo: {{VALUE:Módulo}}
+modulo:
+  "{ VALUE:Módulo }":
 ---
 
 ## Sumário
