@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#lição ",
@@ -18,7 +18,7 @@
       "query": "tag:#mat",
       "color": {
         "a": 1,
-        "rgb": 46079
+        "rgb": 65284
       }
     },
     {
@@ -32,21 +32,21 @@
       "query": "tag:#port  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 16711680
       }
     },
     {
       "query": "tag:#fq  ",
       "color": {
         "a": 1,
-        "rgb": 13311
+        "rgb": 11403519
       }
     },
     {
       "query": "tag:#arc",
       "color": {
         "a": 1,
-        "rgb": 11492566
+        "rgb": 29900
       }
     },
     {
@@ -60,14 +60,14 @@
       "query": "tag:#sibd",
       "color": {
         "a": 1,
-        "rgb": 14283542
+        "rgb": 6559475
       }
     },
     {
       "query": "tag:#inglês  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 61183
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 8.85416666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4737035348302592,
+  "scale": 0.38217097300351516,
   "close": true
 }

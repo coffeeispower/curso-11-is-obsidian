@@ -15,7 +15,7 @@
     {
       "id": "ymKwS8TwlbG5CXnU_9-Cf",
       "name": "Roxo",
-      "value": "#663399"
+      "value": "#8000ff"
     },
     {
       "id": "3HgCOas7YbSnGjSkU2JTP",
@@ -36,6 +36,11 @@
       "id": "AYTcXLSP4VvwRN3s7KQJQ",
       "name": "Azul",
       "value": "#0000ff"
+    },
+    {
+      "id": "aKlwoXsQZbGOBi63-cW8P",
+      "name": "Cinza",
+      "value": "#404040"
     }
   ],
   "fileColors": [
@@ -66,6 +71,14 @@
     {
       "path": "SIBD",
       "color": "AYTcXLSP4VvwRN3s7KQJQ"
+    },
+    {
+      "path": "Templates/Lição.md",
+      "color": "aKlwoXsQZbGOBi63-cW8P"
+    },
+    {
+      "path": "Templates",
+      "color": "aKlwoXsQZbGOBi63-cW8P"
     }
   ]
 }

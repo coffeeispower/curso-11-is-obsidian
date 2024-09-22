@@ -57,10 +57,7 @@
   "Arquitetura de Computadores": "FasComputer",
   "Matemática": "FasCalculator",
   "SIBD/Sistema.md": "LiCog",
-  "Templates/Lição.md": {
-    "iconName": "LiGraduationCap",
-    "iconColor": "#404040"
-  },
+  "Templates/Lição.md": "LiGraduationCap",
   "Matemática/Triângulo retângulo.md": "LiTriangleRight",
   "Matemática/Tabela de razões trigonométricas.md": "LiTable",
   "Matemática/Razões trigonométricas.md": "LiDivide",
