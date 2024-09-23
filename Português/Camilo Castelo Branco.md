@@ -10,6 +10,7 @@ Nasceu em **Lisboa**, em **1825**, filho de **Manuel Joaquim Botelho Castelo Bra
 
 Escreveu romances, poesias, contos e peças de teatro e foi jornalista.
 
+Resumo da sua vida:
 - Camilo perdeu os pais muito cedo e foi para Vila Real com a irmã
 - **1841**: Teve o primeiro casamento
 - **1842**: Tentou frequentar o curso superior de Medicina no Porto durante 3 anos, mas não foi bem no estudos.
@@ -23,7 +24,7 @@ Escreveu romances, poesias, contos e peças de teatro e foi jornalista.
 - **1885**: Tornou-se [[Visconde]]
 - **1888**: Casa-se com [[Ana Plácido]]
 - Foi jornalista
-- [[Ana Plácido]] traiu Camilo e são presos por adultério (traição)
+- [[Ana Plácido]] traiu Camilo e são presos por adultério (traição) na [[Cadeia da Relação no Porto]]
 	- Camilo por ser [[Visconde]] e um jornalista reconhecido, tinha privilégios dentro da prisão
 	- O autor redige as obras “**Amor de Predição**”, “**Memórias de um Carcére**” e “**Novelas do Minho**” durante a prisão
 - **1890**: Suicidou-se porque previa a possibilidade de poder ficar cego e ficar louco porque estava a demonstrar sinais de demência.

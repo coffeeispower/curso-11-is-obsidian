@@ -21,7 +21,8 @@
     "port": 9,
     "sibd": 10,
     "AI": 11,
-    "template": 12
+    "template": 12,
+    "slides": 13
   },
   "_version": 3
 }

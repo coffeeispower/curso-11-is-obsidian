@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCode2",
+      "LiPackage",
+      "LiBookMarked",
+      "LiPuzzle",
+      "👪"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "(Lição|Lesson|Lessons|Lições) \\d+",
+        "icon": "LiGraduationCap",
+        "for": "files",
+        "order": 0
+      },
+      {
+        "rule": "Anexos",
+        "icon": "LiPaperclip",
+        "for": "folders",
+        "order": 1
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Português": "🇵🇹",
+  "SIBD": "LiDatabase",
+  "Excalidraw": "LiPencilLine",
+  "Área de Integração": "🫂",
+  "Física e Química": "🍎",
+  "Inglês": "🇺🇸",
+  "Imagens": "LiImage",
+  "Templates": "LiTextSelect",
+  "Arquitetura de Computadores": "🖥",
+  "Matemática": "LiCalculator",
+  "SIBD/Sistema.md": "LiCog",
+  "Templates/Lição.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "#404040"
+  },
+  "Matemática/Triângulo retângulo.md": "LiTriangleRight",
+  "Matemática/Tabela de razões trigonométricas.md": "LiTable",
+  "Matemática/Razões trigonométricas.md": "LiDivide",
+  "Matemática/Exercicios da lição 3 e 4.md": "LiExperiment",
+  "Física e Química/Onda.md": "〰",
+  "Área de Integração/Família.md": "👪",
+  "Área de Integração/Módulo 3 - A pessoa.md": "LiPuzzle",
+  "Física e Química/Módulos.md": "LiPuzzle",
+  "Inglês/Módulos.md": "LiPuzzle",
+  "Português/Módulos.md": "LiPuzzle",
+  "Lista de Lições.md": "LiBookMarked",
+  "Arquitetura de Computadores/Cisco Packet Tracer.md": "LiPackage",
+  "Português/Texto literário vs Texto não literário.canvas": "LiText"
+}

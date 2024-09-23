@@ -1,5 +1,5 @@
 ---
-tags: [lição, template]
+tags: [lição]
 data:
   "{ DATE:YYYY-MM-DD }": 
 hours: 1
