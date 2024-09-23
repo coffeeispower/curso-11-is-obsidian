@@ -1,7 +1,7 @@
 ---
-tags:
-  - fq
+tags: [fq]
 ---
+
 Um fotão é um [[Corpúsculos|corpúsculo]] de [[Ondas eletromagnéticas|luz]], ele carrega um pacote de energia com uma [[frequência]].
 
 Fotões não tem [[massa]] nem [[carga elétrica]] e viajam sempre à [[velocidade da luz]] no vazio.
