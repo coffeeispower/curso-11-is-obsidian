@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "-tag:#template ",
+  "collapse-filter": true,
+  "search": "-path:Templates  ",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#lição ",
@@ -71,7 +71,7 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0.2,
   "nodeSizeMultiplier": 2.03958333333333,
@@ -81,6 +81,6 @@
   "repelStrength": 8.85416666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.48374410350360614,
+  "scale": 1.70506951035897,
   "close": true
 }

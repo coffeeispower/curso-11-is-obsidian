@@ -8,80 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7d40b8de6c831c9",
+            "id": "6c4ed28c2764c64a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Monarquia Liberal.md",
+                "file": "Física e Química/Fotões.md",
                 "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62f29b016e94ea95",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6facc8de93f78fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Invasões Napoleônicas.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "800935a460296bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Guerras Liberais.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91e00986f52b412c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Monarquia Liberal.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fa5f66a8c020345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Monarquia Absolutista.md",
-                "mode": "preview",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -110,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "luz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Física e Química/Fotões.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Física e Química/Fotões.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Física e Química/Fotões.md"
+              }
             }
           },
           {
@@ -203,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,47 +170,47 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "1c9e250672e32dca",
+  "active": "6c4ed28c2764c64a",
   "lastOpenFiles": [
+    "Física e Química/Lição 1.md",
+    "Física e Química/Corpúsculos.md",
+    "Física e Química/Modelo quântico da luz.md",
+    "Física e Química/Modelo corpuscular da luz.md",
+    "Física e Química/Modelo ondulatório da luz.md",
+    "Física e Química/Lição 5.md",
+    "Física e Química/Fotões.md",
+    "Física e Química/Corpo iluminado.md",
+    "Física e Química/Ondas eletromagnéticas.md",
+    "Física e Química/Corpo luminoso.md",
+    "Física e Química/Onda.md",
+    "Física e Química/Reflexão da luz.md",
+    "Física e Química/Refração da luz.md",
     "Lista de Lições.md",
-    "Português/Século XIX em Portugal.md",
-    "Português/Invasões Napoleônicas.md",
-    "Português/Monarquia Liberal.md",
-    "Português/Guerras Liberais.md",
-    "Português/Monarquia Absolutista.md",
-    "Português/Monarquia Constitucional.md",
-    "Português/Módulos.md",
-    "Português/Família real.md",
+    "Física e Química/Lição 3 & 4.md",
+    "Templates/Lição.md",
+    "Português/\"Amor de Perdição\".md",
+    "Português/Domingos Botelho.md",
+    "Português/Novela.md",
     "Português/Camilo Castelo Branco.md",
-    "Português/Ana Plácido.md",
+    "Português/Século XIX em Portugal.md",
+    "Português/Texto literário vs Texto não literário.canvas",
+    "Português/Módulos.md",
+    "Português/Monarquia Absolutista.md",
+    "Português/Monarquia Liberal.md",
     "Português/Lição 6 & 7.md",
     "Português/Lição 4 & 5.md",
-    "Templates/Lição.md",
-    "Português/Lição 1 & 2.md",
-    "Português/Lição 3.md",
-    "SIBD/Bancos de dados.md",
-    "SIBD/Evolução dos Sistemas.md",
-    "SIBD/Sem título.md",
     "SIBD/Anexos/Pasted image 20240923105833.png",
     "SIBD/Anexos/Pasted image 20240923105516.png",
-    "Excalidraw/Drawing 2024-09-23 10.45.43.excalidraw.md",
-    "Excalidraw/Banco de dados.md",
-    "Excalidraw/Sem título.md",
     "SIBD/Anexos/Pasted image 20240923100242.png",
     "SIBD/Anexos/Pasted image 20240923091658.png",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240923091931_755.png",
-    "Excalidraw/Bancos de dados antigamente.excalidraw.md",
     "SIBD/Anexos/Pasted image 20240923091351.png",
     "SIBD/Tipos dos Sistemas.canvas",
-    "Excalidraw/Drawing 2024-09-19 15.39.30.excalidraw.md",
     "SIBD/Anexos/Pasted image 20240923091556.png",
     "SIBD/Anexos/Pasted image 20240923091608.png",
     "SIBD/Anexos/Pasted image 20240923091028.png",
     "SIBD/Anexos",
-    "SIBD/Sistema.md",
-    "SIBD/Drawing 2024-09-23 09.02.02.excalidraw.md",
-    "Português/Texto literário vs Texto não literário.canvas",
     "Inglês/Book Exercises",
     "Programação",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",

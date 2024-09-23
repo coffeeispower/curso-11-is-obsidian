@@ -7,5 +7,5 @@ modulo: 7
 
 ## Sumário
 - [[Correção da ficha da Lição 2|Correção da ficha de trabalho realizada na aula anterior]]
-- Modelos [[Modelo ondolatório da luz|ondulatório]] e [[Modelo corpuscular da luz|corpuscular]] da luz
+- Modelos [[Modelo ondulatório da luz|ondulatório]] e [[Modelo corpuscular da luz|corpuscular]] da luz
 ## Notas relacionadas

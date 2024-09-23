@@ -3,7 +3,7 @@ tags: [port]
 modulo: 5
 ---
 
-O século XIX em Portugal foi um século de várias **mudanças politicas e sociais** que no final levaram à **mudança da [[monarquia]] para uma [[republica]]**
+O século XIX em Portugal foi um século de várias **mudanças politicas e sociais**:
 - [[Industrialização]]
 - Implementação das redes - vias de comunicação
 - Mudanças Politicas: **[[Guerras Liberais|Revolução Liberal]]** (1828-1834)
