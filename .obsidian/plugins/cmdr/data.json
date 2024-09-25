@@ -1,15 +1,8 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [
-    {
-      "id": "quickadd:choice:6a9f80a3-3703-46a1-9aae-0c3c024c3553",
-      "icon": "award",
-      "name": "QuickAdd: Iniciar nova lição",
-      "mode": "any"
-    }
-  ],
+  "editorMenu": [],
   "fileMenu": [],
   "leftRibbon": [],
   "rightRibbon": [],

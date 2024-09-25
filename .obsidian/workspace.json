@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e15674a8cd800bf3",
+        "id": "261fac05bf1e6cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "38595c594bf8a710",
+            "id": "716c3abcf5dca0dc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Física e Química/Fotões.md",
-                "staged": false
+                "file": "Física e Química/Lição 6.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "luz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -68,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.51103591918945
+    "width": 348.5026054382324
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Física e Química/Lição 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Física e Química/Lição 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Física e Química/Lição 6.md"
+              }
             }
           },
           {
@@ -165,35 +171,37 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "38595c594bf8a710",
+  "active": "1c9e250672e32dca",
   "lastOpenFiles": [
-    "Lista de Lições.md",
-    "Física e Química/Fotões.md",
-    "Física e Química/Lição 1.md",
-    "Física e Química/Corpúsculos.md",
-    "Física e Química/Modelo quântico da luz.md",
-    "Física e Química/Modelo corpuscular da luz.md",
-    "Física e Química/Modelo ondulatório da luz.md",
-    "Física e Química/Lição 5.md",
-    "Física e Química/Corpo iluminado.md",
     "Física e Química/Ondas eletromagnéticas.md",
-    "Física e Química/Corpo luminoso.md",
-    "Física e Química/Onda.md",
-    "Física e Química/Reflexão da luz.md",
-    "Física e Química/Refração da luz.md",
+    "Física e Química/Difração da luz.md",
+    "Física e Química/Lição 6.md",
+    "Física e Química/Interferência da luz.md",
+    "Lista de Lições.md",
     "Física e Química/Lição 3 & 4.md",
-    "Templates/Lição.md",
-    "Português/\"Amor de Perdição\".md",
-    "Português/Domingos Botelho.md",
-    "Português/Novela.md",
-    "Português/Camilo Castelo Branco.md",
-    "Português/Século XIX em Portugal.md",
+    "Física e Química/Interferência.md",
+    "Física e Química/Lição 1.md",
+    "Física e Química/Espectro eletromagnético.md",
+    "Física e Química/Efeito fotoelétrico.md",
+    "Física e Química/Lição 5.md",
+    "SIBD/Evolução dos Sistemas.md",
+    "Excalidraw/Drawing 2024-09-25 10.41.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-25 09.19.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-24 09.03.04.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-25 09.19.06.excalidraw 1.md",
+    "SIBD/Anexos/Pasted image 20240925091427.png",
+    "SIBD/Bancos de dados.md",
+    "Inglês/Word Formation - Suffixes.md",
+    "Inglês/Lição 6.md",
+    "Inglês/Lesson 4 & 5.md",
+    "Área de Integração/Lição 3.md",
+    "Área de Integração/Lição 1 & 2.md",
+    "Inglês/Bordallo II.md",
+    "Área de Integração/Lição 4 & 5.md",
+    "Inglês/Book Exercises/Page 56.md",
+    "Inglês/Lesson 1.md",
+    "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "Português/Texto literário vs Texto não literário.canvas",
-    "Português/Módulos.md",
-    "Português/Monarquia Absolutista.md",
-    "Português/Monarquia Liberal.md",
-    "Português/Lição 6 & 7.md",
-    "Português/Lição 4 & 5.md",
     "SIBD/Anexos/Pasted image 20240923105833.png",
     "SIBD/Anexos/Pasted image 20240923105516.png",
     "SIBD/Anexos/Pasted image 20240923100242.png",
@@ -204,11 +212,9 @@
     "SIBD/Tipos dos Sistemas.canvas",
     "SIBD/Anexos/Pasted image 20240923091556.png",
     "SIBD/Anexos/Pasted image 20240923091608.png",
-    "SIBD/Anexos/Pasted image 20240923091028.png",
     "SIBD/Anexos",
     "Inglês/Book Exercises",
     "Programação",
-    "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "Português/Lições",
     "Excalidraw/Anexos",
     "Matemática",

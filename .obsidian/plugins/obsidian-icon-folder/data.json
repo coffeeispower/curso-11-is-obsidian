@@ -48,7 +48,6 @@
   },
   "Português": "🇵🇹",
   "SIBD": "FasDatabase",
-  "Excalidraw": "LiPencilLine",
   "Área de Integração": "FasPeopleArrows",
   "Física e Química": "FasAppleWhole",
   "Inglês": "🇺🇸",
@@ -71,5 +70,6 @@
   "Lista de Lições.md": "FasBook",
   "Arquitetura de Computadores/Cisco Packet Tracer.md": "LiPackage",
   "Português/Texto literário vs Texto não literário.canvas": "LiText",
-  "Tarefas.md": "LiCheckCheck"
+  "Tarefas.md": "LiCheckCheck",
+  "Excalidraw": "LiPencilLine"
 }

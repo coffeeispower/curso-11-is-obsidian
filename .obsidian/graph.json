@@ -1,8 +1,8 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Templates  ",
+  "collapse-filter": false,
+  "search": "-path:Templates  tag:#fq",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -81,6 +81,6 @@
   "repelStrength": 8.85416666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.70506951035897,
+  "scale": 1.0112250768723345,
   "close": true
 }

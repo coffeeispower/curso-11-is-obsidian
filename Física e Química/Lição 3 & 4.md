@@ -1,5 +1,5 @@
 ---
-tags: [lição, fq, fq-modulo-7]
+tags: [lição, fq]
 data: 2024-09-19
 hours: 2
 modulo: 7

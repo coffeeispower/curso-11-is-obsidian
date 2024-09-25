@@ -1,5 +1,5 @@
 ---
-aliases: [Luz]
+aliases: [Luz, luz]
 tags: [fq]
 modulo: 7
 ---

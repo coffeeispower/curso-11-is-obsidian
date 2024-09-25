@@ -1,7 +1,7 @@
 ---
 tags: [lição]
 data: 2024-09-20
-hours: 1
+hours: 2
 modulo: 5
 ---
 
