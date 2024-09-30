@@ -6,5 +6,5 @@ modulo: 5
 ---
 
 ## Sumário
-- [ ] Conclusion of the [[Lesson 4 & 5|previous lesson]]
-- [ ] [[Word Formation - Suffixes]]
+- [x] Conclusion of the [[Lesson 4 & 5|previous lesson]]
+- [x] [[Word Formation - Suffixes]]

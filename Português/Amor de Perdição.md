@@ -17,3 +17,14 @@ Os heróis são heróis muito justos que debatem pelos seus valores e assumem qu
 
 [[Tadeu de Albuquerque|Tadeu]] queria que [[Teresa de Albuquerque|Teresa]] casasse com um primo.
 
+## Prefácio
+
+O prefácio da obra conta que o livro conta a triste história do seu tio paterno [[Simão Botelho]], contada pela sua tia [[Rita Botelho]].
+
+Camilo folheou livros de até 1800, maços de papel antigos da casa da sua irmã, perguntou aos contemporâneos noticias e informações sobre [[Simão Botelho]] e escreveu o romance em 15 dias, os mais atormentadores da vida dele.
+
+Camilo também conta que se considera um narrador-autor.
+
+## Introdução
+
+A introdução faz a descrição de que era [[Simão Botelho]].

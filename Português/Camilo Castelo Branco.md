@@ -6,7 +6,7 @@ aliases: [Camilo]
 
 # Biografia
 
-Nasceu em **Lisboa**, em **1825**, filho de **Manuel Joaquim Botelho Castelo Branco** e de **Jacinta Rosa do Espírito Santo Ferreira** e teve 4 filhos. Mas ele foi considerado filho de Mãe desconhecida.
+Nasceu em **Lisboa**, em **1825**, filho de **Manuel Joaquim Botelho Castelo Branco** e de **Jacinta Rosa do Espírito Santo Ferreira** e teve 4 filhos. Mas ele foi considerado filho de Mãe desconhecida. A tia de Camilo é [[Rita Botelho]].
 
 Escreveu romances, poesias, contos e peças de teatro e foi jornalista.
 
@@ -27,4 +27,5 @@ Resumo da sua vida:
 - [[Ana Plácido]] traiu Camilo e são presos por adultério (traição) na [[Cadeia da Relação no Porto]]
 	- Camilo por ser [[Visconde]] e um jornalista reconhecido, tinha privilégios dentro da prisão
 	- O autor redige as obras “**Amor de Predição**”, “**Memórias de um Carcére**” e “**Novelas do Minho**” durante a prisão
+	- Provavelmente esteve preso na mesma cela que o seu tio [[Simão Botelho]]
 - **1890**: Suicidou-se porque previa a possibilidade de poder ficar cego e ficar louco porque estava a demonstrar sinais de demência.

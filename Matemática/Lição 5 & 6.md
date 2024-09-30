@@ -6,8 +6,8 @@ modulo: 5
 ---
 
 ## Sumário
-- [[Relações entre razões trigonométricas]]
-- Exercícios
+- [X] [[Relações entre razões trigonométricas]]
+- [X] Exercícios
 
 ## Notas relacionadas
 

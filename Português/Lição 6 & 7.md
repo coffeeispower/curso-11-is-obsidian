@@ -6,4 +6,5 @@ modulo: 5
 ---
 
 ## Sumário
-- [[Século XIX em Portugal]]
+- Paralelismo entre a época ([[Século XIX em Portugal]]) e a obra [[Amor de Perdição]]
+- Narrador-autor, o herói romântico e a estrutura da obra - “Amou, perdeu-se e morreu amando”
