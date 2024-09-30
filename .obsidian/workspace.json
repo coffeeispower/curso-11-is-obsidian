@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "3a131ca349784e54",
+            "id": "4d428c7f2ab6cdec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 8.md",
+                "file": "Português/Domingos José Correia Botelho.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "2f5cc7a8df34fd6c",
+            "id": "5b67a5968172fa0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 9 & 10.md",
+                "file": "Português/Amor de Perdição.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,11 +49,16 @@
             }
           },
           {
-            "id": "7d504bf58ef52ea5",
+            "id": "321506aef050a0f3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Português/Domingos José Correia Botelho.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -86,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Modelo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -123,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Português/Lição 9 & 10.md",
+                "file": "Português/Amor de Perdição.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Português/Lição 9 & 10.md",
+                "file": "Português/Amor de Perdição.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Português/Lição 9 & 10.md"
+                "file": "Português/Amor de Perdição.md"
               }
             }
           },
@@ -184,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -208,10 +213,17 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "2f5cc7a8df34fd6c",
+  "active": "5b67a5968172fa0b",
   "lastOpenFiles": [
-    "Português/Lição 8.md",
+    "Português/Domingos José Correia Botelho.md",
+    "Português/Amor de Perdição.md",
+    "Português/Teresa de Albuquerque.md",
     "Lista de Lições.md",
+    "Português/Lição 8.md",
+    "Português/Simão Botelho.md",
+    "Português/Jacubinismo.md",
+    "Português/Lição 3.md",
+    "Português/Camilo Castelo Branco.md",
     "Português/Lição 9 & 10.md",
     "SIBD/Evolução dos Sistemas.md",
     "SIBD/Anexos/Pasted image 20240925091427.png",
@@ -235,13 +247,6 @@
     "Física e Química/Modelo ondulatório da luz.md",
     "Inglês/Lição 7 & 8.md",
     "Inglês/Word Formation - Suffixes.md",
-    "Inglês/Lição 6.md",
-    "Matemática/Lição 5 & 6.md",
-    "Português/Lição 6 & 7.md",
-    "Português/Amor de Perdição.md",
-    "Português/Simão Botelho.md",
-    "Português/Camilo Castelo Branco.md",
-    "Português/Século XIX em Portugal.md",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "Português/Texto literário vs Texto não literário.canvas",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
