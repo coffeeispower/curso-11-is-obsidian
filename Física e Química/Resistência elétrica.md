@@ -1,1 +1,1 @@
-A grandeza quer mede a oposição de um condutor à passagem de corrente da corrente elétrica é designada resistência elétrica
+A grandeza que mede a oposição de um condutor à passagem de corrente da corrente elétrica é designada resistência elétrica
