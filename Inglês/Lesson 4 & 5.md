@@ -1,5 +1,7 @@
 ---
-tags: [lição]
+tags:
+  - lição
+  - inglês
 data: 2024-09-20
 hours: 2
 modulo: 5

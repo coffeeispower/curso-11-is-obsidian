@@ -25,7 +25,7 @@ Camilo folheou livros de até o ano 1800, maços de papel antigos da casa da sua
 
 Camilo também conta que se considera um narrador-autor.
 
-## Introdução
+# Introdução
 
 A introdução faz a descrição de quem era [[Simão Botelho]] e introduz a frase “Amou, Perdeu-se e Morreu amando”. Esta foi a frase que resume a história de Simão, já que amou [[Teresa de Albuquerque]], destruiu a sua vida com decisões erradas e morreu a caminho da Índia (tendo partido em 1807).
 

@@ -47,6 +47,7 @@ Eram grandes e usavam **fitas magnéticas** e **cartões perfurados** que eram *
 ![[Pasted image 20240923105516.png|230]]
 
 ---
+
 #### Computador ↓
 
 ![](https://media1.tenor.com/m/_V8TTKAXYB0AAAAC/spongebob-squarepants-sunglasses.gif)

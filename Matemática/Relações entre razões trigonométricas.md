@@ -1,7 +1,7 @@
 ---
-tags:
-  - mat
+tags: [mat]
 ---
+
 $$
 \displaylines {
   \tan \alpha = \frac{\sin \alpha}{\cos \alpha}\\

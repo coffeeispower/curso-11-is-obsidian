@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Templates -tag:#lição  ",
+  "search": "-path:Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,6 +81,6 @@
   "repelStrength": 8.85416666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.44499791320966775,
-  "close": true
+  "scale": 0.235846534038604,
+  "close": false
 }

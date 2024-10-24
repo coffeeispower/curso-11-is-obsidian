@@ -4,6 +4,8 @@ kanban-plugin: board
 
 ## Por fazer
 
+- [ ] Trabalho de área de integração
+
 ## Em progresso
 
 ## Feito
