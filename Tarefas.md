@@ -1,14 +1,26 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Por fazer
 
-- [ ] Trabalho de área de integração
+- [ ] F4
+	Ficha de trabalho - revisão
+- [ ] Tarefa pág. 113
+	F3
+
 
 ## Em progresso
 
+
+
 ## Feito
+
+
+
+
 
 %% kanban:settings
 ```
