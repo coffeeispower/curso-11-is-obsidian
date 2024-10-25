@@ -71,20 +71,30 @@
             "id": "52b4d77704efe902",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tarefas.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Português/Lição 14 & 15.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Tarefas"
+              "icon": "lucide-file",
+              "title": "Lição 14 & 15"
+            }
+          },
+          {
+            "id": "6c565769675dad59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Trabalho de recuperação de tempos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabalho de recuperação de tempos"
             }
           },
           {
@@ -163,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +195,7 @@
                 "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
-              "title": "ファイルエクスプローラ"
+              "title": "Explorador de ficheiros"
             }
           },
           {
@@ -219,7 +229,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5086555480957
+    "width": 265.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -316,13 +327,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:クイックスイッチャーを開く": false,
-      "graph:グラフビューを開く": false,
-      "canvas:新規キャンバスを作成": false,
-      "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false,
-      "workspaces:ワークスペースレイアウトを管理": false,
-      "obsidian-kanban:カンバンボードを新規作成": false,
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "canvas:Create new canvas": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
+      "workspaces:Gerir esquema da área de trabalho": false,
+      "obsidian-kanban:Create new board": false,
       "quickadd:QuickAdd": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
@@ -332,8 +343,17 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "52b4d77704efe902",
+  "active": "6c565769675dad59",
   "lastOpenFiles": [
+    "Português/Anexos/Pasted image 20241025110446.png",
+    "Português/Anexos/Pasted image 20241025105540.png",
+    "Português/Trabalho de recuperação de tempos.md",
+    "Português/Lição 14 & 15.md",
+    "Português/Lição 11.md",
+    "Tarefas.md",
+    "Templates/Lição.md",
+    "Matemática/Equações trigonométricas.md",
+    "Matemática/Lição 23 & 24.md",
     "Física e Química/Resistência elétrica.md",
     "Física e Química.tar.xz",
     "Física e Química/Corrente elétrica.md",
@@ -353,13 +373,6 @@
     "Português/Lição 3.md",
     "Inglês/Lição 25 & 26.md",
     "Inglês/Lesson 1.md",
-    "Excalidraw/Drawing 2024-10-23 12.08.03.excalidraw.md",
-    "Física e Química/Campo magnético.md",
-    "Física e Química/Forças elétricas.md",
-    "Inglês/Lição 24.md",
-    "Física e Química/Carga elétrica.md",
-    "Área de Integração/Família.md",
-    "Matemática/Equações trigonométricas.md",
     "Inglês/Work in pairs",
     "SIBD/Anexos/Pasted image 20240925091427.png",
     "SIBD/Anexos/Pasted image 20240923105833.png",
@@ -373,7 +386,6 @@
     "Excalidraw/Anexos/Pasted Image 20240923091931_755.png",
     "SIBD/Tipos dos Sistemas.canvas",
     "SIBD/Anexos/Pasted image 20240923091556.png",
-    "SIBD/Anexos/Pasted image 20240923091608.png",
     "SIBD/Anexos",
     "Inglês/Book Exercises",
     "Programação",

@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Por fazer
@@ -11,16 +9,9 @@ kanban-plugin: board
 - [ ] Tarefa pág. 113
 	F3
 
-
 ## Em progresso
 
-
-
 ## Feito
-
-
-
-
 
 %% kanban:settings
 ```
