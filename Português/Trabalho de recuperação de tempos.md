@@ -3,7 +3,7 @@ tags: [port]
 data: 2024-10-25
 ---
 
-![](Anexos/Pasted image 20241025110446.png)
+![](Anexos/liberdade.png)
 > Imagem de Agim Sulaj (2020), “Liberdade”
 
 A imagem de Agim Sulaj de 2020, intitulada “Liberdade”, parece apresentar o sentimento que nos atinge ao ganharmos liberdade, ao escapar do aprisionamento ou de restrições.
