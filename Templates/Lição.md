@@ -6,5 +6,3 @@ modulo: {{VALUE:Módulo}}
 ---
 
 ## Sumário
-
-## Notas relacionadas

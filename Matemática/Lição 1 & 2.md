@@ -9,4 +9,5 @@ modulo: 5
 - Apresentação
 - Diálogo com os alunos sobre o funcionamento da disciplina
 - [[Razões trigonométricas]].
+
 ## Notas relacionadas

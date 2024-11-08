@@ -1,7 +1,7 @@
 ---
-tags:
-  - mat
+tags: [mat]
 ---
+
 ![[Drawing 2024-10-17 14.42.34.excalidraw]]
 
 $$

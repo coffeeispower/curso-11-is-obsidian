@@ -3,9 +3,9 @@
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #AI
-SORT file.name ASC
+SORT data ASC
 ```
 
 # Arquitetura de computadores
@@ -14,9 +14,9 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #arc 
-SORT file.name ASC
+SORT data ASC
 ```
 # Física e Química
 
@@ -24,9 +24,9 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #fq 
-SORT file.name ASC
+SORT data ASC
 ```
 # Inglês
 
@@ -34,9 +34,9 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #inglês 
-SORT file.name ASC
+SORT data ASC
 ```
 
 # Matemática
@@ -45,9 +45,9 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #mat 
-SORT file.name ASC
+SORT data ASC
 ```
 
 # Português
@@ -56,9 +56,9 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #port 
-SORT file.name ASC
+SORT data ASC
 ```
 # Sistemas da Informação e Bancos de Dados
 
@@ -66,9 +66,9 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #sibd 
-SORT file.name ASC
+SORT data ASC
 ```
 
 # Programação
@@ -77,7 +77,7 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Lição",
 	modulo as Módulo,
-	hours as Horas
+	data as Data
 FROM #lição and #prog
-SORT file.name ASC
+SORT data ASC
 ```

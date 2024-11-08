@@ -1,3 +1,7 @@
+---
+tags:
+  - fq
+---
 A [[corrente elétrica]] que atravessa um [[Circuitos Elétricos|circuito elétrico]] corresponde ao movimento orientado de cargas elétricas que provêm do gerador.
 
  ## O que será que provoca esse movimento de cargas ao longo de todo o circuito?
