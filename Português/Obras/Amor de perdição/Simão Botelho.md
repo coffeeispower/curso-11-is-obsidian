@@ -1,5 +1,7 @@
 ---
-tags: [port]
+tags:
+  - port
+  - amor-de-perdição
 ---
 
 - Nome completo: Simão António Botelho

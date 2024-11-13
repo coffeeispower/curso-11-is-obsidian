@@ -20,6 +20,7 @@ A coesão lexical dá uma organização melhor ao texto e remove repetição de 
 	- [[Hiperónimo]]
 	- [[Holónimos]]
 	- [[Hipónimos]]
+	- [[Merónimos]]
 - por reiteração (=repetição)
 	- Ex: **Simão** amou, **Simão** perdeu-se e **Simão** morreu amando
 

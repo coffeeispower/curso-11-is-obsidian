@@ -1,14 +1,14 @@
 {
   "collapse-filter": false,
-  "search": "-path:Templates",
-  "showTags": false,
+  "search": "-path:Templates -#excalidraw -#lição",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#lição ",
+      "query": "tag:#lição",
       "color": {
         "a": 1,
         "rgb": 14048444
@@ -26,13 +26,6 @@
       "color": {
         "a": 1,
         "rgb": 16741120
-      }
-    },
-    {
-      "query": "tag:#port  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
       }
     },
     {
@@ -69,6 +62,27 @@
         "a": 1,
         "rgb": 61183
       }
+    },
+    {
+      "query": "tag:#os-maias",
+      "color": {
+        "a": 1,
+        "rgb": 13893887
+      }
+    },
+    {
+      "query": "tag:#amor-de-perdição  ",
+      "color": {
+        "a": 1,
+        "rgb": 9625682
+      }
+    },
+    {
+      "query": "tag:#port",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
@@ -76,11 +90,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.0107131830812,
   "lineSizeMultiplier": 0.991349181846249,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.557270762581044,
   "repelStrength": 8.30132757023773,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.39145111477412103,
-  "close": false
+  "scale": 0.8498371574893117,
+  "close": true
 }

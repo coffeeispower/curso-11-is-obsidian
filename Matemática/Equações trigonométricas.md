@@ -1,4 +1,3 @@
 ---
-tags:
-  - mat
+tags: [mat]
 ---

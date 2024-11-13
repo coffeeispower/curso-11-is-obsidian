@@ -1,0 +1,32 @@
+---
+aliases: [Eça de Quiroz, José Maria Eça de Queirós]
+tags: [port, os-maias]
+---
+
+- Nome completo: José Maria Eça de Queirós
+- Filiação:
+	- Pai: [[José Maria Teixeira de Queiroz]]
+	- Mãe: [[Carolina Augusta de Eça]]
+- Nasce em 1845 e morre em 1900
+- Nasceu numa geração muito importante, na [[Geração de 70]]
+- Pode ser escrito como Eça de Queir**oz** ou Eça de Queir**ós**
+- Viveu em Aveiro.
+- Autor do conto [[Os Maias]]
+- Escreveu diferente tipologias de textos:
+	- Contos
+	- Romances
+	- Crónicas
+	- Narrativas de viagem
+- Em 1861 - frequentou o curso de direito em Coimbra na [[Geração de 70]]
+- Cresceu em Verdemilho com os seus avós
+- Casa aos 40 anos com [[Emília Pamplona]]
+- Mudou-se para Lisboa - escreveu para “A Gazeta”
+- Vivei grande parte da sua vida fora de Portugal:
+	- Cuba
+	- Inglaterra
+	- França
+- Obras “post-morem”:
+	- “[[A Ilustre Casa de Ramires]]”
+	- “[[A Cidade e as serras]]
+- [[Realismo]], [[Naturalismo]]
+	- Considera que a sociedade, herança genética ([[Família]]), educação são fundamentais para a literatura.

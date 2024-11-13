@@ -1,3 +1,7 @@
+---
+tags: [fq]
+---
+
 ## Experiencia de [[Oersted]]
 ## Eletroímã
 ## Lei de [[Faraday]]

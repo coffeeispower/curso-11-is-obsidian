@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"455eed844d98ba05","type":"file","file":"Português/Obras/Os Maias/Os Maias.md","x":-320,"y":-220,"width":400,"height":400},
+		{"id":"369fdcd387e67a7c","type":"file","file":"Português/Obras/Os Maias/Eça de Queirós.md","x":260,"y":-220,"width":400,"height":399},
+		{"id":"adb96ae18e8a4fdd","x":260,"y":292,"width":400,"height":400,"type":"file","file":"Português/Obras/Os Maias/Realismo.md"},
+		{"id":"c5dffe0d574e7c81","x":940,"y":-220,"width":400,"height":400,"type":"file","file":"Português/Obras/Os Maias/Geração de 70.md"}
+	],
+	"edges":[
+		{"id":"15f2f38d1be159ba","fromNode":"369fdcd387e67a7c","fromSide":"left","toNode":"455eed844d98ba05","toSide":"right"},
+		{"id":"ea78ca0fd0b9a571","fromNode":"369fdcd387e67a7c","fromSide":"bottom","toNode":"adb96ae18e8a4fdd","toSide":"top"},
+		{"id":"de651d02d581375a","fromNode":"455eed844d98ba05","fromSide":"bottom","toNode":"adb96ae18e8a4fdd","toSide":"left"},
+		{"id":"264983cbabf0658f","fromNode":"c5dffe0d574e7c81","fromSide":"left","toNode":"369fdcd387e67a7c","toSide":"right"},
+		{"id":"f53c4f5339f3886c","fromNode":"c5dffe0d574e7c81","fromSide":"bottom","toNode":"adb96ae18e8a4fdd","toSide":"right"}
+	]
+}
