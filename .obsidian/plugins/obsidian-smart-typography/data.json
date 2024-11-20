@@ -2,7 +2,7 @@
   "curlyQuotes": true,
   "emDash": false,
   "ellipsis": true,
-  "arrows": true,
+  "arrows": false,
   "comparisons": true,
   "fractions": false,
   "guillemets": false,

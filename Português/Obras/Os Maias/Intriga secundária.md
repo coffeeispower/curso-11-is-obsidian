@@ -1,5 +1,7 @@
 ---
-tags: [port]
+tags:
+  - port
+  - os-maias
 ---
 
 - [[Afonso da Maia|Afonso]] vem a Portugal, após a morte de seu pai, [[Caetano da Maia|Caetano]]
@@ -24,7 +26,7 @@ tags: [port]
 - Regressa ao [[Ramalhete - Casa dos maias|Ramalhete]], para junto de seu pai, Afonso, levando consigo o seu filho Carlos. Pedro estava destroçado
 	- Pedro subiu ao seu quarto e, nessa noite, ouviu-se um tiro. Pedro suicidou-se
 - Nessa noite o [[Ramalhete - Casa dos maias|Ramalhete]] fecha-se. Afonso muda-se para o DOuro para a quinta de Santa Olávia
-- [[Carlos]] é educado por [[Afonso da Maia|afonso]], e por um tutor, [[Mr. Brown]]
+- [[Carlos]] é educado por [[Afonso da Maia|Afonso]], e por um tutor, [[Mr. Brown]]
 - [[Carlos]] cresceu como um rapaz forte, robusto, criativo e um omem socialmente correto e estuda Medicina em Coimbra
 - Faz o seu melhor amigo [[João da Ega]]
 - Carlos então se torna médico e faz uma viagem de 1 ano por toda a Europa

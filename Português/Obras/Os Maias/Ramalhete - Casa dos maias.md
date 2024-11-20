@@ -1,5 +1,7 @@
 ---
-tags: [port]
+tags:
+  - port
+  - os-maias
 ---
 
 A família de [[Os Maias]] é uma família real da alta sociedade.
