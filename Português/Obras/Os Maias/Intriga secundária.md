@@ -1,7 +1,5 @@
 ---
-tags:
-  - port
-  - os-maias
+tags: [port, os-maias]
 ---
 
 - [[Afonso da Maia|Afonso]] vem a Portugal, após a morte de seu pai, [[Caetano da Maia|Caetano]]
