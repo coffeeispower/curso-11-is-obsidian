@@ -1,0 +1,1 @@
+Mulher católica, religiosa, conservadora, mãe de [[Pedro da Maia]]

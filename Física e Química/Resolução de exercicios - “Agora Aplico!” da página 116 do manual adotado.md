@@ -1,7 +1,7 @@
 ---
-tags:
-  - fq
+tags: [fq]
 ---
+
 Fórmula para calcular a energia de cada nível:
 
 $$

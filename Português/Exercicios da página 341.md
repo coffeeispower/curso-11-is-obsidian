@@ -1,7 +1,7 @@
 ---
-tags:
-  - port
+tags: [port]
 ---
+
 ## 2
 ### 2.1
 - C. [[Hipónimos|um hipónimo]]

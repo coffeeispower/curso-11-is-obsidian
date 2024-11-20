@@ -1,7 +1,7 @@
 ---
-tags:
-  - inglês
+tags: [inglês]
 ---
+
 Use **"so"** and **"such"** to add emphasis, but they are used differently:
 #### 1. **"So"** + Adjective/Adverb:
 - **"So"** is used before adjectives or adverbs without a noun.

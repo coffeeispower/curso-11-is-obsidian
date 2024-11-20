@@ -1,7 +1,5 @@
 ---
-tags:
-  - lição
-  - port
+tags: [lição, port]
 data: 2024-10-23
 hours: 1
 modulo: 5
