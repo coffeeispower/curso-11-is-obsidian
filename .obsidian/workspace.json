@@ -8,45 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91a9a6f918b8de3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física e Química/Campo elétrico.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Campo elétrico"
-            }
-          },
-          {
             "id": "1a41cbdeca30f27f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/202411221050 - Exercises page 97-98.md",
+                "file": "Português/Lição 42.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202411221050 - Exercises page 97-98"
+              "title": "Lição 42"
             }
           },
           {
-            "id": "7b93e19a6b23a0d2",
+            "id": "89e285531d22b707",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Português/Anexos/Deíticos 2024-11-20 16.00.50.excalidraw.md"
+                "file": "Português/Obras/Os Maias/Os Maias.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Deíticos 2024-11-20 16.00.50.excalidraw"
+              "icon": "lucide-file",
+              "title": "Os Maias"
+            }
+          },
+          {
+            "id": "3cad7ee47352ad48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Lição 43 & 44.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 43 & 44"
             }
           }
         ],
@@ -221,10 +224,19 @@
       "zk-prefixer:Crie uma nova nota única": false
     }
   },
-  "active": "1a41cbdeca30f27f",
+  "active": "89e285531d22b707",
   "lastOpenFiles": [
-    "Inglês/The Present Perfect Continuous.md",
+    "Português/Obras/Os Maias/Anexos/Os Maias - Linha do tempo 2024-11-11 13.02.40.excalidraw.md",
+    "Português/Obras/Os Maias/Intriga secundária.md",
+    "Português/Obras/Os Maias/Os Maias.md",
+    "Português/Obras/Os Maias/Ramalhete - Casa dos maias.md",
+    "Português/Deíticos.md",
+    "Português/Lição 42.md",
+    "Português/Lição 43 & 44.md",
+    "Física e Química/Campo elétrico.md",
+    "Português/Anexos/Deíticos 2024-11-20 16.00.50.excalidraw.md",
     "Inglês/202411221050 - Exercises page 97-98.md",
+    "Inglês/The Present Perfect Continuous.md",
     "Matemática/202411211442 - Exercicios aula 35.md",
     "Inglês/Sem título.md",
     "Matemática/Sem título.md",
@@ -239,16 +251,7 @@
     "Eletricidade.md",
     "Física e Química/Força elétricas.md",
     "Física e Química/Carga elétrica.md",
-    "Física e Química/Campo elétrico.md",
     "Excalidraw/Drawing 2024-10-23 12.08.03.excalidraw.md",
-    "Português/Deíticos.md",
-    "Física e Química/Reflexão da luz.md",
-    "Português/Jacubinismo.md",
-    "Português/Trabalho de recuperação de tempos.md",
-    "Português/Coesão textual.md",
-    "Português/Hiperónimo.md",
-    "Português/Holónimos.md",
-    "Português/Hipónimos.md",
     "Matemática/Anexos",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115125753.png",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115122034.png",

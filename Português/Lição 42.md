@@ -6,5 +6,5 @@ modulo: 5
 ---
 
 ## Sumário
-<!-- Conclusão do exercício de avaliação-->
-- [[Deíticos]]
+- Conclusão do exercício de avaliação - educação literária
+- [[Deíticos]] - pessoais, temporais e espaciais

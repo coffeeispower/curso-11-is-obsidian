@@ -12,5 +12,6 @@ Os Maias é uma história de uma família da elite portuguesa que acontece entre
 ## Capitulo I - Ramalhete
 
 Este capitulo descreve a casa (O [[Ramalhete - Casa dos maias|Ramalhete]]).
-### Continuação da [[intriga secundária]]
-![[O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw|100%]]
+## Capitulo II
+
+O capitulo II conta a [[Intriga secundária]], onde recuamos para 1820 para entender o contexto da história.
