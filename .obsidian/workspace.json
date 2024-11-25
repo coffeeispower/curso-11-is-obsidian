@@ -4,52 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "01c9e9c75e53d9ba",
+        "id": "1422e97f6b9c9a97",
         "type": "tabs",
         "children": [
           {
-            "id": "1a41cbdeca30f27f",
+            "id": "429cdd7fe6ac4b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 42.md",
+                "file": "Português/Obras/Os Maias/Personagens/Maria Eduarda Runa.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 42"
+              "title": "Maria Eduarda Runa"
             }
           },
           {
-            "id": "89e285531d22b707",
+            "id": "3a216522e289db5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Obras/Os Maias/Os Maias.md",
+                "file": "202411251455 - Correção da ficha de trabalho - Som.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Os Maias"
-            }
-          },
-          {
-            "id": "3cad7ee47352ad48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Lição 43 & 44.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lição 43 & 44"
+              "title": "202411251455 - Correção da ficha de trabalho - Som"
             }
           }
         ],
@@ -84,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tancredo",
+                "query": "\"Maria, a Castro Gomes\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5086555480957
+    "width": 404.5086555480957
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -224,34 +209,34 @@
       "zk-prefixer:Crie uma nova nota única": false
     }
   },
-  "active": "89e285531d22b707",
+  "active": "7975bcde506e524d",
   "lastOpenFiles": [
-    "Português/Obras/Os Maias/Anexos/Os Maias - Linha do tempo 2024-11-11 13.02.40.excalidraw.md",
-    "Português/Obras/Os Maias/Intriga secundária.md",
-    "Português/Obras/Os Maias/Os Maias.md",
-    "Português/Obras/Os Maias/Ramalhete - Casa dos maias.md",
-    "Português/Deíticos.md",
-    "Português/Lição 42.md",
+    "Português/Obras/Amor de perdição/Amor de Perdição.md",
+    "202411251455 - Correção da ficha de trabalho - Som.md",
+    "Física e Química/Lição 40.md",
+    "Português/Obras/Os Maias/Personagens/Maria Eduarda Runa.md",
+    "Português/Obras/Amor de perdição/Camilo Castelo Branco.md",
+    "Português/Obras/Amor de perdição/Tadeu de Albuquerque.md",
+    "Português/202411251259 - Exercicios página 204.md",
+    "Português/Obras/Os Maias/Personagens/Dâmaso Salcede.md",
+    "Português/Lição 37.md",
+    "Português/Obras/Os Maias/Intriga principal.md",
+    "Português/Diletante.md",
+    "Português/Obras/Os Maias/Personagens/Carlos da Maia.md",
+    "Português/Obras/Os Maias/Sr. Guimarães.md",
+    "Português/Incesto.md",
+    "Português/Lição 45 & 46.md",
+    "Inglês/202411221437 - Writing an interview script for a foreign student.md",
+    "Português/Obras/Os Maias/Personagens/Maria Monforte.md",
+    "Português/Obras/Os Maias/Personagens/Maria, a Castro Gomes.md",
+    "Português/Obras/Os Maias/Personagens/Condessa de Gouvarinho.md",
     "Português/Lição 43 & 44.md",
-    "Física e Química/Campo elétrico.md",
-    "Português/Anexos/Deíticos 2024-11-20 16.00.50.excalidraw.md",
-    "Inglês/202411221050 - Exercises page 97-98.md",
-    "Inglês/The Present Perfect Continuous.md",
-    "Matemática/202411211442 - Exercicios aula 35.md",
-    "Inglês/Sem título.md",
-    "Matemática/Sem título.md",
-    "Matemática/202411190908 - Exercícios matemática sobre seno.md",
     "Matemática/202411190958 - Exercício 2 Página 59.md",
+    "Matemática/202411211442 - Exercicios aula 35.md",
     "Matemática/Lição 35 & 36.md",
-    "Matemática/Lição 33 & 34.md",
-    "Matemática/Função seno.md",
-    "Física e Química/Resistência elétrica.md",
-    "Física e Química/Potência elétrica.md",
-    "Física e Química/Corrente elétrica.md",
-    "Eletricidade.md",
-    "Física e Química/Força elétricas.md",
-    "Física e Química/Carga elétrica.md",
-    "Excalidraw/Drawing 2024-10-23 12.08.03.excalidraw.md",
+    "Inglês/202411221519 - Interview a foreign student.md",
+    "202411221519.md",
+    "Inglês/202411201503 - Exercises page 117.md",
     "Matemática/Anexos",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115125753.png",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115122034.png",

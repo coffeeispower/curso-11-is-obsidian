@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "-path:Templates -#excalidraw -#lição",
+  "collapse-filter": true,
+  "search": "-path:Templates -tag:#excalidraw -tag:#lição tag:#os-maias",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#lição",
@@ -87,14 +87,14 @@
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.0107131830812,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.06880518678605,
   "lineSizeMultiplier": 0.991349181846249,
   "collapse-forces": true,
   "centerStrength": 0.557270762581044,
-  "repelStrength": 8.30132757023773,
+  "repelStrength": 11.6208706390861,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4022440386818503,
-  "close": true
+  "scale": 1.5680131049879356,
+  "close": false
 }
