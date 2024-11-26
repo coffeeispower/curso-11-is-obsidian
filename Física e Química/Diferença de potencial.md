@@ -9,4 +9,4 @@ A [[corrente elétrica]] que atravessa um [[Circuitos Elétricos|circuito elétr
  Para que se verifique o fluxo de [[eletrões]] entre dois [[condutor elétrico|condutores]], é necessário que exista, entre eles, uma **diferença de potencial elétrico (U)**.
 
 > [!summary]- Diferença de Potencial (U)
-> Quantidade de [[eletricidade|energia elétrica]] fornecida pelo gerador ao [[Circuitos Elétricos|circuito]]
+> Quantidade de [[Eletricidade|energia elétrica]] fornecida pelo gerador ao [[Circuitos Elétricos|circuito]]

@@ -6,7 +6,7 @@ tags: [fq]
 
 ## Eletroímã
 ## Lei de [[Faraday]]
-[[Faraday|Michael Faraday]] descobriu o fenómeno da [[Indução eletromagnética]], que é considerado um dos marcos da nova era da produção de [[eletricidade]].
+[[Faraday|Michael Faraday]] descobriu o fenómeno da [[Indução eletromagnética]], que é considerado um dos marcos da nova era da produção de [[Eletricidade]].
 
 > [!summary] Lei de faraday
 > Faraday provou que é possivel obter [[corrente elétrica]] através da variação do [[campo magnético]].

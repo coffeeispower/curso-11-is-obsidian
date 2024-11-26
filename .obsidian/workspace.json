@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1422e97f6b9c9a97",
+        "id": "f71821782ff35173",
         "type": "tabs",
         "children": [
           {
-            "id": "429cdd7fe6ac4b3e",
+            "id": "322469b2152868c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Obras/Os Maias/Personagens/Maria Eduarda Runa.md",
-                "mode": "source",
+                "file": "Física e Química/Lição 1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maria Eduarda Runa"
-            }
-          },
-          {
-            "id": "3a216522e289db5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202411251455 - Correção da ficha de trabalho - Som.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202411251455 - Correção da ficha de trabalho - Som"
+              "title": "Lição 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,6 +45,31 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de ficheiros"
+            }
+          },
+          {
+            "id": "b64d1de291bb2ff2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização de diagrama de grafo"
+            }
+          },
+          {
+            "id": "549749413f93be9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Lições.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lista de Lições"
             }
           },
           {
@@ -110,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Português/Deíticos.md",
+                "file": "Física e Química/Lição 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Deíticos"
+              "title": "Backlinks para Lição 1"
             }
           },
           {
@@ -129,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Português/Obras/Os Maias/Família dos Maias.md",
+                "file": "Física e Química/Lição 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Família dos Maias"
+              "title": "Links externos de Lição 1"
             }
           },
           {
@@ -156,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inglês/Lição 27 & 28.md"
+                "file": "Física e Química/Lição 1.md"
               },
               "icon": "lucide-list",
-              "title": "Índice de Lição 27 & 28"
+              "title": "Índice de Lição 1"
             }
           },
           {
@@ -209,12 +218,22 @@
       "zk-prefixer:Crie uma nova nota única": false
     }
   },
-  "active": "7975bcde506e524d",
+  "active": "1c9e250672e32dca",
   "lastOpenFiles": [
-    "Português/Obras/Amor de perdição/Amor de Perdição.md",
-    "202411251455 - Correção da ficha de trabalho - Som.md",
-    "Física e Química/Lição 40.md",
+    "Área de Integração/Formas de organização de território.md",
+    "Matemática/Lição 37 & 38.md",
+    "Português/Lição 24 & 25.md",
+    "Português/Lição 22 & 23.md",
+    "Lista de Lições.md",
+    "Programação/Sem título.md",
+    "Programação/Apresentação sobre Git.md",
+    "Matemática/Função coseno.md",
+    "Matemática/Função tangente.md",
+    "Matemática/Função seno.md",
     "Português/Obras/Os Maias/Personagens/Maria Eduarda Runa.md",
+    "Física e Química/202411251455 - Correção da ficha de trabalho - Som.md",
+    "Português/Obras/Amor de perdição/Amor de Perdição.md",
+    "Física e Química/Lição 40.md",
     "Português/Obras/Amor de perdição/Camilo Castelo Branco.md",
     "Português/Obras/Amor de perdição/Tadeu de Albuquerque.md",
     "Português/202411251259 - Exercicios página 204.md",
@@ -227,16 +246,6 @@
     "Português/Incesto.md",
     "Português/Lição 45 & 46.md",
     "Inglês/202411221437 - Writing an interview script for a foreign student.md",
-    "Português/Obras/Os Maias/Personagens/Maria Monforte.md",
-    "Português/Obras/Os Maias/Personagens/Maria, a Castro Gomes.md",
-    "Português/Obras/Os Maias/Personagens/Condessa de Gouvarinho.md",
-    "Português/Lição 43 & 44.md",
-    "Matemática/202411190958 - Exercício 2 Página 59.md",
-    "Matemática/202411211442 - Exercicios aula 35.md",
-    "Matemática/Lição 35 & 36.md",
-    "Inglês/202411221519 - Interview a foreign student.md",
-    "202411221519.md",
-    "Inglês/202411201503 - Exercises page 117.md",
     "Matemática/Anexos",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115125753.png",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115122034.png",

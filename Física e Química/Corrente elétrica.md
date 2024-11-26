@@ -2,7 +2,7 @@
 tags: [fq]
 ---
 
-Para além da quantidade de [[eletricidade|energia elétrica]] que circula num [[Circuitos Elétricos|circuito]], é importante conhecer a velocidade de circulação das [[Carga elétrica|cargas elétricas]].
+Para além da quantidade de [[Eletricidade|energia elétrica]] que circula num [[Circuitos Elétricos|circuito]], é importante conhecer a velocidade de circulação das [[Carga elétrica|cargas elétricas]].
 
 A grandeza que relaciona a quantidade de [[Carga elétrica|carga elétrica]] que passa numa dada secção do circuito, por intervalo de tempo, é designada **corrente elétrica (I)**.
 

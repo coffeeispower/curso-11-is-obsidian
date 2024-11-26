@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Templates -tag:#excalidraw -tag:#lição tag:#os-maias",
+  "collapse-filter": false,
+  "search": "-path:Templates -tag:#excalidraw -tag:#lição tag:#inglês  ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -95,6 +95,6 @@
   "repelStrength": 11.6208706390861,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.5680131049879356,
-  "close": false
+  "scale": 0.8461266603635808,
+  "close": true
 }

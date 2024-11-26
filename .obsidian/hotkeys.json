@@ -26,5 +26,14 @@
       "modifiers": [],
       "key": "F12"
     }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "0"
+    }
   ]
 }

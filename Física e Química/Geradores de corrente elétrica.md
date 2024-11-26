@@ -21,7 +21,7 @@ A função do gerador é aplicar continuamente uma diferença de potencial entre
 - **Geradores térmicos**
 	- Convertem diretamente energia térmica em elétrica
 - **Geradores mecânicos**
-	- Transformam energia mecânica em [[eletricidade|energia elétrica]]
+	- Transformam energia mecânica em [[Eletricidade|energia elétrica]]
 - **Geradores solares**
 	- Transformam energia solar em energia elétrica
 	- Exemplos:

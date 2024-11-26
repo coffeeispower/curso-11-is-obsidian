@@ -1,3 +1,7 @@
+---
+tags:
+  - fq
+---
 1.1
 	Quando uma abelha bate as asas produz um [[Som]]
 

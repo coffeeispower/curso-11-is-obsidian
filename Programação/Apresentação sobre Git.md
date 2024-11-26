@@ -76,3 +76,7 @@ Mas apagam algum ficheiro importante sem querer
 - ✗ “ljbrljkgbekgbeçkjb”
 - ✓ “Adicionar botão de voltar na página de checkout”
 - ✓ “Resolver bug que ele não carregava a página”
+
+---
+
+###
