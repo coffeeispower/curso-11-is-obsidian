@@ -5,7 +5,7 @@ modulo: 5
 ---
 
 # Summary
-- [[Inglês/Lição 18 & 19|Concluding the previous lesson]]
+- [[Lesson 18 & 19|Concluding the previous lesson]]
 - Writing a dialogue about teenage problems
 
 # Recovery Task
