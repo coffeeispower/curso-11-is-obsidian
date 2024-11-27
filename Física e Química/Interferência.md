@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz, fq-som]
 ---
 
 A interferência é resultado a interação de 2 [[Onda|ondas]] onde os dois se combinam ao uma única onda.

@@ -1,5 +1,7 @@
 ---
-tags: [fq]
+tags:
+  - fq
+  - fq-eletricidade
 modulo: 5
 ---
 

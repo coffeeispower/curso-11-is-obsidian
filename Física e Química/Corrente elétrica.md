@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 ---
 
 Para além da quantidade de [[Eletricidade|energia elétrica]] que circula num [[Circuitos Elétricos|circuito]], é importante conhecer a velocidade de circulação das [[Carga elétrica|cargas elétricas]].

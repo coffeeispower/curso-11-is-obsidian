@@ -1,7 +1,7 @@
 ---
-tags:
-  - fq
+tags: [fq, fq-eletricidade]
 ---
+
 ## Ligação de componentes em série
 
 Componentes ligados em série significa que eles estão ligados um no outro como se fosse um fio elétrico, se algum dos componentes queimar, ele interrompe o circuito e todos os componentes na mesma série deixam de funcionar.

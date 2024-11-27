@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz]
 ---
 
 Um fotão é um [[Corpúsculos|corpúsculo]] de [[Ondas eletromagnéticas|luz]], ele carrega um pacote de energia com uma [[frequência]].

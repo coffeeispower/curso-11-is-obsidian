@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f71821782ff35173",
+        "id": "2431f1362a7370ad",
         "type": "tabs",
         "children": [
           {
-            "id": "322469b2152868c8",
+            "id": "7de68afa6d43bcca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física e Química/Lição 1.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lição 1"
+              "title": "Nova aba"
             }
           }
         ]
@@ -78,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Maria, a Castro Gomes\"",
+                "query": "tag:fq/eletricidade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5086555480957
+    "width": 485.5004348754883
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -119,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física e Química/Lição 1.md",
+                "file": "Programação/lazygit reversão.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Lição 1"
+              "title": "Backlinks para lazygit reversão"
             }
           },
           {
@@ -138,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física e Química/Lição 1.md",
+                "file": "Programação/lazygit reversão.mp4",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Lição 1"
+              "title": "Links externos de lazygit reversão"
             }
           },
           {
@@ -165,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física e Química/Lição 1.md"
+                "file": "Programação/lazygit reversão.mp4"
               },
               "icon": "lucide-list",
-              "title": "Índice de Lição 1"
+              "title": "Índice de lazygit reversão"
             }
           },
           {
@@ -187,8 +182,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-file",
+              "title": "O plugin não está mais ativo"
             }
           }
         ],
@@ -206,46 +201,51 @@
       "templates:Inserir templates": false,
       "command-palette:Abrir paleta de comando": false,
       "workspaces:Gerir esquema da área de trabalho": false,
-      "obsidian-kanban:Create new board": false,
-      "quickadd:QuickAdd": false,
+      "random-note:Abrir nota aleatória": false,
+      "zk-prefixer:Crie uma nova nota única": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "quickadd:QuickAdd": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
       "quick-tagger:Add tag to current note": false,
       "quick-tagger:Remove tag from current note": false,
-      "system3-relay:Relay": false,
-      "random-note:Abrir nota aleatória": false,
-      "zk-prefixer:Crie uma nova nota única": false
+      "system3-relay:Relay": false
     }
   },
   "active": "1c9e250672e32dca",
   "lastOpenFiles": [
-    "Área de Integração/Formas de organização de território.md",
-    "Matemática/Lição 37 & 38.md",
-    "Português/Lição 24 & 25.md",
-    "Português/Lição 22 & 23.md",
-    "Lista de Lições.md",
-    "Programação/Sem título.md",
-    "Programação/Apresentação sobre Git.md",
-    "Matemática/Função coseno.md",
-    "Matemática/Função tangente.md",
-    "Matemática/Função seno.md",
-    "Português/Obras/Os Maias/Personagens/Maria Eduarda Runa.md",
-    "Física e Química/202411251455 - Correção da ficha de trabalho - Som.md",
-    "Português/Obras/Amor de perdição/Amor de Perdição.md",
-    "Física e Química/Lição 40.md",
-    "Português/Obras/Amor de perdição/Camilo Castelo Branco.md",
-    "Português/Obras/Amor de perdição/Tadeu de Albuquerque.md",
-    "Português/202411251259 - Exercicios página 204.md",
-    "Português/Obras/Os Maias/Personagens/Dâmaso Salcede.md",
-    "Português/Lição 37.md",
-    "Português/Obras/Os Maias/Intriga principal.md",
-    "Português/Diletante.md",
-    "Português/Obras/Os Maias/Personagens/Carlos da Maia.md",
-    "Português/Obras/Os Maias/Sr. Guimarães.md",
-    "Português/Incesto.md",
-    "Português/Lição 45 & 46.md",
-    "Inglês/202411221437 - Writing an interview script for a foreign student.md",
+    "Inglês/Word Formation - Suffixes.md",
+    "Inglês/The Present Perfect Continuous.md",
+    "Inglês/Teenagers References.md",
+    "Inglês/Módulos.md",
+    "Inglês/Lição 9.md",
+    "Inglês/Lição 7 & 8.md",
+    "Inglês/Lição 6.md",
+    "Inglês/Lição 44 & 45.md",
+    "Inglês/Lição 42 & 43.md",
+    "Inglês/Lição 34 & 35.md",
+    "Inglês/Lição 32 & 33.md",
+    "Inglês/Lição 29 & 30.md",
+    "Inglês/Lição 27 & 28.md",
+    "Inglês/Lição 25 & 26.md",
+    "Inglês/Lição 24.md",
+    "Inglês/Lição 18 & 19.md",
+    "Inglês/Lição 10 & 11.md",
+    "Inglês/Listening activities - “Hanging Out”.md",
+    "Inglês/Listening activities - A biodiversity specialist.md",
+    "Inglês/Lesson 4 & 5.md",
+    "Inglês/Lesson 20 & 21.md",
+    "Inglês/Lesson 2 & 3.md",
+    "Inglês/Lesson 1.md",
+    "Inglês/Exercises Page 106.md",
+    "Inglês/Bordallo II.md",
+    "Inglês/202411221519 - Interview a foreign student.md",
+    "Inglês/Book Exercises",
+    "Inglês",
+    "Programação/lazygit reversão.mp4",
+    "Programação/lazygit.mp4",
     "Matemática/Anexos",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115125753.png",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115122034.png",
@@ -254,15 +254,11 @@
     "Programação/Anexos/Pasted image 20241108153843.png",
     "Português/Obras/Os Maias/Anexos",
     "Português/Obras/Os Maias/Os Maias.canvas",
-    "Programação/lazygit reversão.mp4",
-    "Programação/lazygit.mp4",
     "Programação/lazygit.gif",
     "Programação/Anexos",
     "Sem título",
     "Programação",
     "Português/Pasted image 20241108140629.png",
-    "Português/Obras/Os Maias",
-    "Português/Obras/Amor de perdição",
     "Português/Anexos/liberdade.png",
     "Português/Anexos/Pasted image 20241025105540.png",
     "SIBD/Anexos/Pasted image 20240925091427.png",

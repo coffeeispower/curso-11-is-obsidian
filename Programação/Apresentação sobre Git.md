@@ -43,6 +43,24 @@ Mas apagam algum ficheiro importante sem querer
 ![[Apresentação sobre Git e GIthub 2024-11-08 14.58.50.excalidraw|800]]
 
 ---
+
+## Reversão de alterações
+
+É possível facilmente reverter qualquer modificação ou exclusão acidental com o git
+```sh
+$ ls
+index.html estilo.css
+$ rm index.html
+$ ls
+estilo.css
+$ git reset --hard HEAD
+$ ls
+index.html estilo.css
+$ █
+```
+
+---
+
 #### Comandos básicos
 
 | Comando                           | Descrição                                         |
@@ -51,18 +69,17 @@ Mas apagam algum ficheiro importante sem querer
 | `git add <ficheiro>`              | Seleciona um ficheiro para ser incluído no commit |
 | `git commit`                      | Cria um novo commit                               |
 | `git reset --hard <id do commit>` | Volta para um commit anterior                     |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
+|                                   |                                                   |
 
 ---
-
-## Lazygit
-
-![[lazygit.mp4]]
-
----
-
-## Reversão de alterações
-
-![[lazygit reversão.mp4]]
 
 ---
 
@@ -79,4 +96,8 @@ Mas apagam algum ficheiro importante sem querer
 
 ---
 
-###
+## Merge (Juntar)
+
+![[Apresentação sobre Git 2024-11-26 14.08.39.excalidraw|100%]]
+
+---

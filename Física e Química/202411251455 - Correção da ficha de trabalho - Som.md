@@ -1,7 +1,7 @@
 ---
-tags:
-  - fq
+tags: [fq, fq-som]
 ---
+
 1.1
 	Quando uma abelha bate as asas produz um [[Som]]
 

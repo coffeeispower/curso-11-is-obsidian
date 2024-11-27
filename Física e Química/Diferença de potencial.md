@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 ---
 
 A [[corrente elétrica]] que atravessa um [[Circuitos Elétricos|circuito elétrico]] corresponde ao movimento orientado de [[carga elétrica|cargas elétricas]] que provêm do [[Geradores de corrente elétrica|gerador]].

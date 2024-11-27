@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz]
 ---
 
 O físico inglês Thomas Young montou uma experiencia que permitiu verificar a natureza **[[Modelo ondulatório da luz|ondolatória da luz]]**, demonstrando o fenómeno da **[[Interferência]]**.

@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz, fq-eletricidade]
 ---
 
 O efeito fotoelétrico é o fenómeno de interação entre a [[Ondas eletromagnéticas|luz]] e a matéria.

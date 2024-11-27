@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz, fq-som]
 ---
 
 Fórmula para calcular a energia de cada nível:

@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz, fq-som]
 modulo: 7
 ---
 

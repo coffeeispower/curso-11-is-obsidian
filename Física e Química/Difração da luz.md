@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz]
 ---
 
 O físico francês [[Augustin-Jean Fresnel]] mostrou que um feixe de [[Ondas eletromagnéticas|luz]] sofre um desvio da sua trajetória ao passar por um obstáculo (fenda, orifício ou arestas de um objeto).

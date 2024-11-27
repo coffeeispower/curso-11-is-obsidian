@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 ---
 
 ## Experiencia de [[Oersted]]

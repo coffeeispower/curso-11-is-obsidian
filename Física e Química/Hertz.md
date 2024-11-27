@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-luz, fq-eletricidade]
 modulo: 7
 ---
 

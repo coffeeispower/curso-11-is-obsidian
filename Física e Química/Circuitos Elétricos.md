@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 ---
 
 A **corrente elétrica** corresponde ao movimento orientado de cargas elétricas ao longo de u condutor ligado a um gerador.

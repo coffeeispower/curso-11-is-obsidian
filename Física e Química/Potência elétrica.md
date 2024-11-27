@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 ---
 
 A potência é a quantidade de energia que é consumida em função do tempo e a unidade é o **Watt (W)**.

@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 ---
 
 A grandeza que mede a oposição de um [[condutor elétrico|condutor]] à passagem da [[corrente elétrica]] a uma dada temperatura é designada resistência elétrica.

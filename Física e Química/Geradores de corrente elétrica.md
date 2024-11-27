@@ -1,5 +1,5 @@
 ---
-tags: [fq]
+tags: [fq, fq-eletricidade]
 modulo: 8
 data: 2024-11-06
 ---
