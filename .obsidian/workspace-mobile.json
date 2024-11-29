@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Lição 16 & 17"
             }
           }
         ]
@@ -36,7 +38,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de ficheiros"
         }
       },
       {
@@ -51,7 +55,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
         }
       },
       {
@@ -62,7 +68,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -70,7 +78,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "O plugin não está mais ativo"
         }
       }
     ],
@@ -94,7 +104,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -106,7 +118,9 @@
             "file": "Português/Lição 16 & 17.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Links Externos"
         }
       },
       {
@@ -116,7 +130,9 @@
           "type": "outline",
           "state": {
             "file": "Português/Lição 16 & 17.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Índice"
         }
       },
       {
@@ -124,7 +140,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "O plugin não está mais ativo"
         }
       }
     ],
@@ -132,24 +150,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false,
+      "zk-prefixer:Crie uma nova nota única": false,
+      "random-note:Abrir nota aleatória": false,
       "switcher:Abrir Quick Switcher": false,
       "graph:Abrir Visualização de diagrama de grafo": false,
       "templates:Inserir templates": false,
       "command-palette:Abrir paleta de comando": false,
       "workspaces:Gerir esquema da área de trabalho": false,
-      "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "quickadd:QuickAdd": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false
     }
   },
   "active": "4fad9d990e090aa1",
   "lastOpenFiles": [
+    "Inglês/Book Exercises/Listening activities - “Hanging Out”.md",
+    "Inglês/Book Exercises/Listening activities - A biodiversity specialist.md",
+    "Inglês/Book Exercises/Exercises Page 106.md",
+    "Inglês/Book Exercises/202411201503 - Exercises page 117.md",
     "Lista de Lições.md",
     "Tarefas.md",
     "Excalidraw/Bancos de dados antigamente.excalidraw.md",

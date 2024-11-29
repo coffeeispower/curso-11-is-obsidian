@@ -1,7 +1,7 @@
 ---
-tags:
-  - inglês
+tags: [inglês]
 ---
+
 ## Forming adjectives with suffix
 - **-ful** (Example: careful, useful, beautiful, shameful)
 - **-y** (Example: sleepy)
