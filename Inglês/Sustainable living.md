@@ -1,0 +1,12 @@
+- Save energy (turn off lights, devices,…)
+- Renewable energy sources (solar, wind, wars)
+- install solar panels
+- use led lightning
+- in winter put on extra layers of clothing
+- Use electric cars
+- Use public transportation
+- 3R policy (Reduce, Reuse, Recycle)
+- Reduce garbage
+- Reduce water consumption
+- Reuse glass bottle, plastic bags
+- Recycle (paper, plastic batteries, glass, metals, oil)

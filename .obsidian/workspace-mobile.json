@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Book Exercises/202411221050 - Exercises page 97-98.md",
+                "file": "Inglês/202411291534.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202411221050 - Exercises page 97-98"
+              "title": "202411291534"
             }
           }
         ]
@@ -141,8 +141,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "O plugin não está mais ativo"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -169,8 +169,10 @@
   },
   "active": "4fad9d990e090aa1",
   "lastOpenFiles": [
-    "Inglês/Book Exercises/202411201503 - Exercises page 117.md",
+    "Matemática/Razões trigonométricas.md",
+    "Inglês/202411291534.md",
     "Inglês/Book Exercises/202411221050 - Exercises page 97-98.md",
+    "Inglês/Book Exercises/202411201503 - Exercises page 117.md",
     "Inglês/Book Exercises/Listening activities - A biodiversity specialist.md",
     "Inglês/Book Exercises/Page 56.md",
     "Inglês/Book Exercises/Listening activities - “Hanging Out”.md",

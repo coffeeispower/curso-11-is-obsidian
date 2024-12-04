@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"d8e933745407cf61","type":"text","text":"**Continente**","x":557,"y":-303,"width":156,"height":60,"color":"1"},
+		{"id":"a0a143ca311d9a1c","type":"text","text":"**Portugal e o poder autárquico**\nOrganização administrativa do país.","x":740,"y":-520,"width":360,"height":94,"color":"4"},
+		{"id":"9165b509ce30a14f","type":"text","text":"**Ilhas**","x":1180,"y":-303,"width":103,"height":60,"color":"1"},
+		{"id":"fbeee7fb5c4980cd","type":"text","text":"# Divisões administrativas\n\nSe o objetivo das políticas públicas é a coesão territorial e redução das assimetrias regionais, é essencial que haja uma organização detalhada do espaço português. Só assim se pode conhecer as necessidades da população.","x":-300,"y":-214,"width":572,"height":228},
+		{"id":"40db83e8f219c81d","type":"text","text":"[[Regiões autónomas]]","x":1107,"y":-187,"width":250,"height":60},
+		{"id":"c81b60904d6234dc","type":"text","text":"[[Regiões administrativas]]","x":462,"y":-182,"width":346,"height":55},
+		{"id":"895072060e57a440","type":"text","text":"**==Comissões de coordenação e Desenvolvimento Regional==**\n**==(CCDR)==**","x":462,"y":-40,"width":350,"height":107},
+		{"id":"2f77392d5809ede0","type":"text","text":"Serviço da Administração Central com autonomia administrativa e financeira responsável por executar medidas relevantes para o desenvolvimento das regiões.","x":1420,"y":-80,"width":521,"height":161},
+		{"id":"64f62a8469898644","type":"file","file":"Área de Integração/Município.md","x":664,"y":440,"width":513,"height":223},
+		{"id":"09ce243de949cd86","x":727,"y":920,"width":387,"height":212,"type":"file","file":"Área de Integração/Freguesia.md"},
+		{"id":"9e1fec37c72519a0","x":1556,"y":220,"width":250,"height":60,"type":"text","text":"**Junta de freguesia**"}
+	],
+	"edges":[
+		{"id":"7e650f1aafa6ffe7","fromNode":"a0a143ca311d9a1c","fromSide":"bottom","toNode":"d8e933745407cf61","toSide":"top","color":"4"},
+		{"id":"517af4baa0eb7f84","fromNode":"a0a143ca311d9a1c","fromSide":"bottom","toNode":"9165b509ce30a14f","toSide":"top","color":"4"},
+		{"id":"9c69a543a26da8e1","fromNode":"9165b509ce30a14f","fromSide":"bottom","toNode":"40db83e8f219c81d","toSide":"top","color":"4"},
+		{"id":"d2a1b2318e9c5ee2","fromNode":"d8e933745407cf61","fromSide":"bottom","toNode":"c81b60904d6234dc","toSide":"top","color":"4"},
+		{"id":"b372302410d6eef2","fromNode":"c81b60904d6234dc","fromSide":"bottom","toNode":"895072060e57a440","toSide":"top","color":"4"},
+		{"id":"387dd4706c85d341","fromNode":"895072060e57a440","fromSide":"right","toNode":"2f77392d5809ede0","toSide":"left","color":"#2b2b2b"},
+		{"id":"1f0ee7503b1843a6","fromNode":"40db83e8f219c81d","fromSide":"bottom","toNode":"64f62a8469898644","toSide":"top"},
+		{"id":"532361bc3a55577b","fromNode":"64f62a8469898644","fromSide":"bottom","toNode":"09ce243de949cd86","toSide":"top"}
+	]
+}
