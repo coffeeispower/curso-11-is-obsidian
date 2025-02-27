@@ -4,101 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "701922d29f5cff66",
+        "id": "ac368d12278bae86",
         "type": "tabs",
         "children": [
           {
-            "id": "0a9ee77e0645564b",
+            "id": "96dde80ca0bf7800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Lesson 49 & 50.md",
+                "file": "Inglês/Connectors.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 49 & 50"
+              "title": "Connectors"
             }
           },
           {
-            "id": "32da98318b2785f5",
+            "id": "c2601ee3ac0ce10a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Lesson 51.md",
+                "file": "Inglês/Connectors.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 51"
-            }
-          },
-          {
-            "id": "ca9c37d07e0b3b38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglês/Lesson 52 & 53.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 52 & 53"
-            }
-          },
-          {
-            "id": "c3363cb2c1178198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglês/Sustainable living.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sustainable living"
-            }
-          },
-          {
-            "id": "7470f6ed1aecd851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Área de Integração/Região Autónoma da Madeira.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Região Autónoma da Madeira"
-            }
-          },
-          {
-            "id": "1d67e8ce62a9a42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Área de Integração/Região Autónoma dos Açores.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Região Autónoma dos Açores"
+              "title": "Connectors"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,10 +57,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de ficheiros"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -154,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:fq/eletricidade",
+                "query": "\"Frequência cardíaca\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,15 +113,14 @@
               "type": "tagfolder-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "title": "O plugin não está mais ativo"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 485.5004348754883,
-    "collapsed": true
+    "width": 319.500732421875
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -254,8 +194,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "O plugin não está mais ativo"
             }
           },
           {
@@ -265,7 +205,7 @@
               "type": "git-history-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin desativado"
+              "title": "O plugin não está mais ativo"
             }
           }
         ],
@@ -273,60 +213,64 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 328.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "canvas:Create new canvas": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
-      "zk-prefixer:Crie uma nova nota única": false,
-      "workspaces:Gerir esquema da área de trabalho": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "zk-prefixer:Criar nova nota única": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "system3-relay:Relay": false,
       "random-note:Abrir nota aleatória": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "quickadd:QuickAdd": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-git:Open Git source control": false,
       "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false,
-      "system3-relay:Relay": false
+      "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "c3363cb2c1178198",
+  "active": "c2601ee3ac0ce10a",
   "lastOpenFiles": [
-    "Inglês/Lesson 52 & 53.md",
-    "Inglês/Sustainable living.md",
-    "Inglês/Lesson 51.md",
-    "Inglês/Lesson 49 & 50.md",
+    "Inglês/Sem título.md",
+    "Inglês/Connectors.md",
+    "Inglês/Lição 72 & 73.md",
+    "Inglês/Gerund vs Infinitive.md",
+    "Inglês/Quantifiers.md",
+    "Inglês/Lição 69 & 70.md",
+    "Inglês/Lição 67 & 68.md",
+    "Matemática/Exercicíos de aplicação da página 50 e 51 (A5).md",
+    "Matemática/Lição 55 & 56.md",
+    "Matemática/Lição 53 e 54.md",
+    "Inglês/Lição 66.md",
+    "Matemática/Razões trigonométricas.md",
+    "Português/Obras/Os Maias/Geração de 70.md",
+    "Inglês/Lição 62 & 63.md",
+    "Matemática/Lição 43 & 44.md",
+    "Matemática/Operações com Polinómios.md",
+    "Matemática/Monómios.md",
+    "Matemática/Lição 35 & 36.md",
+    "Português/Lição 61 e 62.md",
+    "Português/Lição 58 & 59.md",
+    "Português/Lição 60.md",
+    "Física e Química/Lição 55.md",
+    "Português/Autores/Antero de Quental.md",
+    "Português/Lição 26.md",
+    "Português/Lição 22 & 23.md",
+    "Português/Lição 21.md",
+    "Português/Obras/O Palácio da Ventura",
+    "Português/Autores",
     "Área de Integração/Divisões Administrativas.canvas",
-    "Área de Integração/Freguesia.md",
-    "Área de Integração/Município.md",
-    "Área de Integração/Divisões Administrativas.md",
-    "Área de Integração/Formas de organização de território.md",
-    "Área de Integração/Região Autónoma da Madeira.md",
-    "Área de Integração/Região Autónoma dos Açores.md",
-    "202411281557 - Exercícios.md",
-    "Inglês/Book Exercises/Page 176 & 177.md",
-    "Inglês/202411291534.md",
-    "Inglês/Lesson 18 & 19.md",
-    "Inglês/Book Exercises/202411221050 - Exercises page 97-98.md",
-    "Inglês/202411221050 - Exercises page 97-98.md",
-    "Inglês/Book Exercises/Listening activities - “Hanging Out”.md",
-    "Inglês/Módulos.md",
-    "Inglês/Teenagers References.md",
-    "Inglês/The Present Perfect Continuous.md",
-    "Inglês/Word Formation - Suffixes.md",
-    "Inglês/Book Exercises/202411201503 - Exercises page 117.md",
-    "Inglês/202411221437 - Writing an interview script for a foreign student.md",
-    "Inglês/202411221519 - Interview a foreign student.md",
-    "Inglês/Difference between so and such.md",
-    "Inglês/Book Exercises/Exercises Page 106.md",
+    "Programação/lazygit reversão.mp4",
+    "Educação Física",
     "Inglês/Book Exercises",
     "Inglês",
-    "Programação/lazygit reversão.mp4",
     "Programação/lazygit.mp4",
     "Matemática/Anexos",
     "Português/Obras/Os Maias/Anexos/Pasted image 20241115125753.png",
@@ -337,9 +281,6 @@
     "Português/Obras/Os Maias/Anexos",
     "Português/Obras/Os Maias/Os Maias.canvas",
     "Programação/lazygit.gif",
-    "Programação/Anexos",
-    "Sem título",
-    "Programação",
     "Português/Pasted image 20241108140629.png",
     "Português/Anexos/liberdade.png",
     "Português/Anexos/Pasted image 20241025105540.png",

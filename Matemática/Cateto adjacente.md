@@ -1,6 +1,6 @@
 ---
 tags: [mat]
-modulo: 5
+modulo: 4
 ---
 
 ![[Cateto adjacente.excalidraw]]

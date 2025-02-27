@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/202411291534.md",
+                "file": "Inglês/Project.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "202411291534"
+              "title": "Project"
             }
           }
         ]
@@ -37,7 +37,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Explorador de ficheiros"
@@ -141,8 +142,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-file",
+          "title": "O plugin não está mais ativo"
         }
       }
     ],
@@ -150,8 +151,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "quick-tagger:Add tag to current note": false,
-      "quick-tagger:Remove tag from current note": false,
       "zk-prefixer:Crie uma nova nota única": false,
       "random-note:Abrir nota aleatória": false,
       "switcher:Abrir Quick Switcher": false,
@@ -164,13 +163,18 @@
       "quickadd:QuickAdd": false,
       "syncthing-integration:Open Syncthing conflict manager modal": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false
     }
   },
   "active": "4fad9d990e090aa1",
   "lastOpenFiles": [
-    "Matemática/Razões trigonométricas.md",
+    "Física e Química/Almoço partilhado dia 19 de dezembro.md",
+    "Inglês/Project.md",
     "Inglês/202411291534.md",
+    "Matemática/Razões trigonométricas.md",
     "Inglês/Book Exercises/202411221050 - Exercises page 97-98.md",
     "Inglês/Book Exercises/202411201503 - Exercises page 117.md",
     "Inglês/Book Exercises/Listening activities - A biodiversity specialist.md",
@@ -196,8 +200,6 @@
     "SIBD/Tipos de Sistemas.canvas",
     "SIBD/Sistema Conceptual.md",
     "SIBD/Sistemas Informáticos.md",
-    "SIBD/Sistema conceptual.md",
-    "SIBD/Sem título.md",
-    "SIBD/Sistema físico.md"
+    "SIBD/Sistema conceptual.md"
   ]
 }

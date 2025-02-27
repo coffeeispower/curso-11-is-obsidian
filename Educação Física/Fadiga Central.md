@@ -1,0 +1,1 @@
+Células nervosas informam o sistema nervoso central sobre a situação dos músculos. Se a concentração de ácido láctico for elevada, ocasionam a formação de impulsos de repressão que finalmente obrigam a interromper o trabalho.

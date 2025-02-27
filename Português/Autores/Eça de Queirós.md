@@ -1,6 +1,6 @@
 ---
 aliases: [Eça de Quiroz, José Maria Eça de Queirós]
-tags: [port, os-maias]
+tags: [port, os-maias, port-autores]
 ---
 
 - Nome completo: José Maria Eça de Queirós

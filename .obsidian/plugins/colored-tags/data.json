@@ -31,7 +31,9 @@
     "fq-eletricidade": 19,
     "fq-luz": 20,
     "fq-ondas": 21,
-    "fq/eletricidade": 1
+    "fq/eletricidade": 1,
+    "edf": 22,
+    "port-autores": 23
   },
   "_version": 3
 }

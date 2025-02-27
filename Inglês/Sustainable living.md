@@ -1,3 +1,7 @@
+---
+tags:
+  - inglês
+---
 - Save energy (turn off lights, devices,…)
 - Renewable energy sources (solar, wind, wars)
 - install solar panels

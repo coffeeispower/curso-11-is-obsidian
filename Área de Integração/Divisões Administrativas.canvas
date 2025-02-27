@@ -3,14 +3,17 @@
 		{"id":"d8e933745407cf61","type":"text","text":"**Continente**","x":557,"y":-303,"width":156,"height":60,"color":"1"},
 		{"id":"a0a143ca311d9a1c","type":"text","text":"**Portugal e o poder autárquico**\nOrganização administrativa do país.","x":740,"y":-520,"width":360,"height":94,"color":"4"},
 		{"id":"9165b509ce30a14f","type":"text","text":"**Ilhas**","x":1180,"y":-303,"width":103,"height":60,"color":"1"},
-		{"id":"fbeee7fb5c4980cd","type":"text","text":"# Divisões administrativas\n\nSe o objetivo das políticas públicas é a coesão territorial e redução das assimetrias regionais, é essencial que haja uma organização detalhada do espaço português. Só assim se pode conhecer as necessidades da população.","x":-300,"y":-214,"width":572,"height":228},
 		{"id":"40db83e8f219c81d","type":"text","text":"[[Regiões autónomas]]","x":1107,"y":-187,"width":250,"height":60},
 		{"id":"c81b60904d6234dc","type":"text","text":"[[Regiões administrativas]]","x":462,"y":-182,"width":346,"height":55},
 		{"id":"895072060e57a440","type":"text","text":"**==Comissões de coordenação e Desenvolvimento Regional==**\n**==(CCDR)==**","x":462,"y":-40,"width":350,"height":107},
-		{"id":"2f77392d5809ede0","type":"text","text":"Serviço da Administração Central com autonomia administrativa e financeira responsável por executar medidas relevantes para o desenvolvimento das regiões.","x":1420,"y":-80,"width":521,"height":161},
 		{"id":"64f62a8469898644","type":"file","file":"Área de Integração/Município.md","x":664,"y":440,"width":513,"height":223},
-		{"id":"09ce243de949cd86","x":727,"y":920,"width":387,"height":212,"type":"file","file":"Área de Integração/Freguesia.md"},
-		{"id":"9e1fec37c72519a0","x":1556,"y":220,"width":250,"height":60,"type":"text","text":"**Junta de freguesia**"}
+		{"id":"09ce243de949cd86","type":"file","file":"Área de Integração/Freguesia.md","x":727,"y":920,"width":387,"height":212},
+		{"id":"2615658f8e91efb9","x":464,"y":144,"width":348,"height":76,"type":"text","text":"Áreas Metropolitanas e ==comunidades intermunicipais=="},
+		{"id":"428b375fa3fd4c75","type":"text","text":"[[Junta de freguesia]]\n(Orgão executivo)\nAssembleia municipal\n(Orgão deliberativo)","x":1520,"y":936,"width":360,"height":180},
+		{"id":"9e1fec37c72519a0","type":"text","text":"[[Junta de freguesia]]\n(Orgão executivo)\nAssembleia municipal\n(Orgão deliberativo)","x":1520,"y":462,"width":360,"height":180},
+		{"id":"2f77392d5809ede0","type":"text","text":"Serviço da Administração Central com autonomia administrativa e financeira responsável por executar medidas relevantes para o desenvolvimento das regiões.","x":1420,"y":-66,"width":420,"height":161},
+		{"id":"f5c41893a6450c06","x":1420,"y":132,"width":370,"height":100,"type":"text","text":"Estruturas informais e redes entre municípios que promovem à criação de sinergias transversais às regiões."},
+		{"id":"fbeee7fb5c4980cd","type":"text","text":"# Divisões administrativas\n\nSe o objetivo das políticas públicas é a coesão territorial e redução das assimetrias regionais, é essencial que haja uma organização detalhada do espaço português. Só assim se pode conhecer as necessidades da população.","x":-360,"y":-66,"width":572,"height":228}
 	],
 	"edges":[
 		{"id":"7e650f1aafa6ffe7","fromNode":"a0a143ca311d9a1c","fromSide":"bottom","toNode":"d8e933745407cf61","toSide":"top","color":"4"},
@@ -20,6 +23,11 @@
 		{"id":"b372302410d6eef2","fromNode":"c81b60904d6234dc","fromSide":"bottom","toNode":"895072060e57a440","toSide":"top","color":"4"},
 		{"id":"387dd4706c85d341","fromNode":"895072060e57a440","fromSide":"right","toNode":"2f77392d5809ede0","toSide":"left","color":"#2b2b2b"},
 		{"id":"1f0ee7503b1843a6","fromNode":"40db83e8f219c81d","fromSide":"bottom","toNode":"64f62a8469898644","toSide":"top"},
-		{"id":"532361bc3a55577b","fromNode":"64f62a8469898644","fromSide":"bottom","toNode":"09ce243de949cd86","toSide":"top"}
+		{"id":"532361bc3a55577b","fromNode":"64f62a8469898644","fromSide":"bottom","toNode":"09ce243de949cd86","toSide":"top"},
+		{"id":"a57ee86009e168d9","fromNode":"64f62a8469898644","fromSide":"right","toNode":"9e1fec37c72519a0","toSide":"left"},
+		{"id":"3706958a4451cdcd","fromNode":"09ce243de949cd86","fromSide":"right","toNode":"428b375fa3fd4c75","toSide":"left"},
+		{"id":"5776d761c9d59117","fromNode":"2615658f8e91efb9","fromSide":"right","toNode":"f5c41893a6450c06","toSide":"left","color":"#403030"},
+		{"id":"11dd0e6235cd9d5e","fromNode":"2615658f8e91efb9","fromSide":"bottom","toNode":"64f62a8469898644","toSide":"top"},
+		{"id":"5ff9a44b30a98b7b","fromNode":"895072060e57a440","fromSide":"bottom","toNode":"2615658f8e91efb9","toSide":"top"}
 	]
 }

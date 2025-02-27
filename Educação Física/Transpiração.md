@@ -1,0 +1,1 @@
+A [[transpiração]] é o processo do organismo controlar a temperatura através da evaporação do [[suor]].

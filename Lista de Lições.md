@@ -81,3 +81,15 @@ TABLE WITHOUT ID
 FROM #lição and #prog
 SORT data ASC
 ```
+
+# Educação Física
+
+```dataview
+TABLE WITHOUT ID
+	file.link as "Lição",
+	modulo as Módulo,
+	data as Data
+FROM #lição and #edf
+SORT data ASC
+```
+

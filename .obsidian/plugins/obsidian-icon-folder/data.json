@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "⚽",
+      "🏈",
       "FasDatabase",
       "FasPuzzlePiece",
-      "FasBook",
-      "FasCalculator",
-      "FasImage"
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -68,5 +68,6 @@
   "Lista de Lições.md": "FasBook",
   "Arquitetura de Computadores/Cisco Packet Tracer.md": "LiPackage",
   "Português/Texto literário vs Texto não literário.canvas": "LiText",
-  "Excalidraw": "LiPencilLine"
+  "Excalidraw": "LiPencilLine",
+  "Educação Física": "⚽"
 }

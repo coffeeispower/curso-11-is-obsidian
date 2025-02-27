@@ -1,0 +1,1 @@
+A **cartografia** é um dos instrumentos mais úteis para a compreensão das diversas realidades de um território, região ou país. Se recolhermos informação sobre as várias zonas que compõe um território e as colocarmos num mapa rapidamente podemos reconhecer o problema: neste caso, as assimetrias regionais.

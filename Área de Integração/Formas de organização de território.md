@@ -1,3 +1,7 @@
+---
+tags:
+  - AI
+---
 O território português está organizado de várias formas. O objetivo passa sempre por simplificar a gestão do espaço das pessoas e dos serviços e responder, com a maior competência ás exigências da população. Assim, podemos considerar três formas de organização do território:
 - **Divisão geográfica** - [[regiões autónomas]], [[distrito]], [[concelho]] e [[freguesia]]
 - ==**Divisão administrativa**== - [[regiões autónomas]], [[regiões administrativas]] ou ==**distritos**== (em Portugal continental), ==**municípios**== e ==**freguesias**==;
