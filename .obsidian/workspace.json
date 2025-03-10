@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ac368d12278bae86",
+        "id": "4abbc44c062123fb",
         "type": "tabs",
         "children": [
           {
-            "id": "96dde80ca0bf7800",
+            "id": "19707ff507fd637f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Connectors.md",
-                "mode": "source",
+                "file": "Português/Lição 73 & 74.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Connectors"
-            }
-          },
-          {
-            "id": "c2601ee3ac0ce10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglês/Connectors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Connectors"
+              "title": "Lição 73 & 74"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.500732421875
+    "width": 333.5
   },
   "right": {
     "id": "dc16f7b76adf9584",
@@ -236,34 +220,34 @@
       "quick-tagger:Remove tag from current note": false
     }
   },
-  "active": "c2601ee3ac0ce10a",
+  "active": "19707ff507fd637f",
   "lastOpenFiles": [
-    "Inglês/Sem título.md",
+    "Português/Autores/Antero de Quental.md",
+    "Português/Lição 73 & 74.md",
+    "Português/Lição 71 & 72.md",
+    "Português/Lição 75 & 76.md",
+    "Física e Química/Resolução de uma ficha de revisões de Química.md",
+    "Física e Química/Lição 63 & 64.md",
+    "Física e Química/Lição 9.md",
+    "Física e Química/Lição 55.md",
+    "Português/Obras/A um poeta.md",
+    "Português/Lição 58 & 59.md",
+    "Português/Lição 70.md",
+    "Matemática/Decomposição de Polinómios.md",
+    "Matemática/Lição 61 e 62.md",
+    "Matemática/Lição 59 & 60.md",
     "Inglês/Connectors.md",
+    "Inglês/Lição 74 & 75.md",
+    "Matemática/Regra de Ruffini.md",
+    "Matemática/Lição 55 & 56.md",
+    "Inglês/Sem título.md",
     "Inglês/Lição 72 & 73.md",
     "Inglês/Gerund vs Infinitive.md",
     "Inglês/Quantifiers.md",
     "Inglês/Lição 69 & 70.md",
     "Inglês/Lição 67 & 68.md",
     "Matemática/Exercicíos de aplicação da página 50 e 51 (A5).md",
-    "Matemática/Lição 55 & 56.md",
     "Matemática/Lição 53 e 54.md",
-    "Inglês/Lição 66.md",
-    "Matemática/Razões trigonométricas.md",
-    "Português/Obras/Os Maias/Geração de 70.md",
-    "Inglês/Lição 62 & 63.md",
-    "Matemática/Lição 43 & 44.md",
-    "Matemática/Operações com Polinómios.md",
-    "Matemática/Monómios.md",
-    "Matemática/Lição 35 & 36.md",
-    "Português/Lição 61 e 62.md",
-    "Português/Lição 58 & 59.md",
-    "Português/Lição 60.md",
-    "Física e Química/Lição 55.md",
-    "Português/Autores/Antero de Quental.md",
-    "Português/Lição 26.md",
-    "Português/Lição 22 & 23.md",
-    "Português/Lição 21.md",
     "Português/Obras/O Palácio da Ventura",
     "Português/Autores",
     "Área de Integração/Divisões Administrativas.canvas",

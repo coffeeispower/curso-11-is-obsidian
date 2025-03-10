@@ -33,7 +33,8 @@
     "fq-ondas": 21,
     "fq/eletricidade": 1,
     "edf": 22,
-    "port-autores": 23
+    "port-autores": 23,
+    "fq-quimica": 24
   },
   "_version": 3
 }

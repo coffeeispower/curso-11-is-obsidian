@@ -1,10 +1,15 @@
+---
+tags: [port]
+---
+
 ## Vida e Obra
 - :LiVerified: Nasceu a 18 de abril de 1842, em Ponta Delgada, Açores.
 - :LiVerified: Estudou nos Açores, Lisboa e Coimbra.
 - :LiVerified: Conheceu Eça de Queirós e Teófilo Braga.
 - :LiVerified: Foi mentor de movimentações estudantis.
 - :LiVerified: Envolvido na Questão Coimbrã e no surgimento da Literatura Nova (Realismo).
-
+- :LiVerified: Busca do ideal: justiça, perfeição, houvesse um lugar para todos
+- :LiVerified: Vive a poesia como um apelo/intervenção
 ---
 
 ### Cronologia
@@ -24,6 +29,8 @@
 - :LiVerified: Linguagem simbólica e filosófica.
 - :LiVerified: Uso frequente de sonetos e verso estruturado.
 - :LiVerified: Influência do Realismo, explorando temas sociais e existenciais.
+- :LiVerified: escreveu em sonetos (2 quadras e 2 tercetos)
+- :LiVerified: Angústia existencial: um mundo repleto de injustiças e imperfeições
 
 ---
 
