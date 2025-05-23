@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4d426a43d88d53c5","type":"text","text":"## Poder legistlativo\n### Bulé\n(500 cidadãos)\n- preparar as leis a aprovar na Eclésia","x":-640,"y":-140,"width":366,"height":290},
+		{"id":"91eb506d81662b60","x":-120,"y":-285,"width":366,"height":290,"type":"text","text":"## Poder legistlativo\n### Eclésia\n(Assembleia de cidadãos)\n- votar as leis\n- decidir a guerra e a paz\n- controlar os magistrados"},
+		{"id":"ce12fb3c46176e4e","x":-120,"y":180,"width":366,"height":320,"type":"text","text":"## Poder executivo\n### Magistrados\n(10 estrafegas + 10 arcontes)\n- comandar o exército\n- velar pela aplicação das leis\n- presidir aos tribunais\n- organizar o culto dos deuses"},
+		{"id":"04ef9dfb09590228","x":660,"y":-114,"width":380,"height":119,"type":"text","text":"## Poder Judicial\n### Tribunais\n"},
+		{"id":"2c1786215675e501","x":500,"y":5,"width":360,"height":155,"type":"text","text":"#### Helieu\n(6000 juízes)\n- julgar os casos comuns"},
+		{"id":"d91486974773a64a","type":"text","text":"#### Areópago\n- julga crimes de hómicidio\n- julgar questões religiosas","x":860,"y":5,"width":340,"height":155}
+	],
+	"edges":[
+		{"id":"709f347ec2b99c32","fromNode":"91eb506d81662b60","fromSide":"left","toNode":"4d426a43d88d53c5","toSide":"right","label":"sorteiam"},
+		{"id":"891d76660bc08de2","fromNode":"91eb506d81662b60","fromSide":"bottom","toNode":"ce12fb3c46176e4e","toSide":"top","label":"elegem ou sorteiam"},
+		{"id":"0602d787ae4e9e77","fromNode":"91eb506d81662b60","fromSide":"right","toNode":"04ef9dfb09590228","toSide":"left","label":"sorteiam"},
+		{"id":"e8cc42d493d6f72c","fromNode":"04ef9dfb09590228","fromSide":"bottom","toNode":"2c1786215675e501","toSide":"top"},
+		{"id":"46143a17dc5e4296","fromNode":"04ef9dfb09590228","fromSide":"bottom","toNode":"d91486974773a64a","toSide":"top"}
+	]
+}

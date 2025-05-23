@@ -20,3 +20,21 @@ $$
 = 6x^2 - 5x - 4\\
 }
 $$
+
+## Divisão inteira de [[polinómios]]
+
+A divisão de polinómios pode ser feita com a [[Regra de Ruffini]] ou através do algoritmo da divisão.
+
+![[Operações com Polinómios 2025-03-13 14.43.14.excalidraw]]
+
+## Divisão exata de [[Polinómios]]
+
+Para fazer a divisão exata, é preciso fazer a [[#Divisão inteira de polinómios|divisão inteira]] primeiro e aplicar esta formula:
+
+$$\frac{d}{D}=Q+\frac{R}{D}$$
+
+$d$ = **d**ividendo
+$D$ = **D**ivisor
+$Q$ = **Q**uociente
+$R$ = **R**esto
+

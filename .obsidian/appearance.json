@@ -1,11 +1,14 @@
 {
   "accentColor": "#00bfff",
-  "cssTheme": "",
-  "textFontFamily": "Bodoni 72",
+  "cssTheme": "Vanilla AMOLED",
+  "textFontFamily": "monospace",
   "monospaceFontFamily": "",
-  "interfaceFontFamily": "Bodoni 72",
-  "theme": "obsidian",
-  "baseFontSize": 17,
+  "interfaceFontFamily": "monospace",
+  "theme": "moonstone",
+  "baseFontSize": 18,
   "baseFontSizeAction": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "kerning"
+  ]
 }

@@ -3,7 +3,7 @@ A regra de ruffini é uma técnica para facilmente dividir [[Polinómios]] por b
 Começa por fazer uma tabela e escreve o coeficiente de todos os graus da equação do maior grau ao menor grau.
 
 Vamos usar $\frac{x^5+1}{x+3}$ como exemplo, é preciso escrever: 1 | 0 | 0 | 0 | 0 | 1
-Porque tem que ter todos os graus, mesmo os que não estão no polinómio, os que foram pulados tem coeficiente 0 e monómios só com a parte literal ou só com a parte numérica tem coeficiente 1 implicitamente.
+porque tem que ter todos os graus, mesmo os que não estão no polinómio, os que foram pulados tem coeficiente 0 e monómios só com a parte literal ou só com a parte numérica tem coeficiente 1 implicitamente.
 
 |     | 1   | 0   | 0   | 0   | 0   | 1   |
 | --- | --- | --- | --- | --- | --- | --- |

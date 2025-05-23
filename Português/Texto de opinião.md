@@ -1,7 +1,7 @@
 ---
-tags:
-  - port
+tags: [port]
 ---
+
 - Escrito na ==1ª pessoa==
 	- Eu
 	- Nós

@@ -34,7 +34,15 @@
     "fq/eletricidade": 1,
     "edf": 22,
     "port-autores": 23,
-    "fq-quimica": 24
+    "fq-quimica": 24,
+    "port/trabalho": 1,
+    "o-sentimento-de-um-ocidental": 25,
+    "fq/pilhas": 2,
+    "port/fernando-pessoa": 2,
+    "port/poema": 3,
+    "mat/a6": 1,
+    "mat/funções": 2,
+    "port/gramatica": 4
   },
   "_version": 3
 }

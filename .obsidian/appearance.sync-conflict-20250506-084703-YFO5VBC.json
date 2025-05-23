@@ -1,0 +1,11 @@
+{
+  "accentColor": "#00bfff",
+  "cssTheme": "Vanilla AMOLED",
+  "textFontFamily": "Bodoni 72",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": "Bodoni 72",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

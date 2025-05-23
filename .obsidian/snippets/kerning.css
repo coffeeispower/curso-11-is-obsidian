@@ -1,0 +1,9 @@
+.view-content > * {
+  letter-spacing: -0.5px;
+}
+code, .cm-inline-code {
+  letter-spacing: 0.2px;
+}
+.outliner-plugin-better-lists .cm-s-obsidian .HyperMD-list-line {
+  padding-top: 0;
+}

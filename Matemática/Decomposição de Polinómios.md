@@ -27,7 +27,7 @@ Zeros:
 
 Decomposição: $x^2-3x-4=1(x-4)(x+1)$
 
-A decomposição de polinómios de segundo grau é sempre o coeficiente do termo de maior ordem \* $(x - Z_{1})$ + $(x-Z_{2})$ onde $Z_{1}$ e $Z_{2}$ são os 2 zeros da equação.
+A decomposição de polinómios de segundo grau é sempre o coeficiente do termo de maior ordem \* $(x - Z_{1})$ \* $(x-Z_{2})$ onde $Z_{1}$ e $Z_{2}$ são os 2 zeros da equação.
 
 ## Polinómios de 3º grau
 
